@@ -61,8 +61,8 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://example.org/rik/galaxy.trucker/rough.road.cards.jpg",
-          "BackURL": "http://example.org/rik/galaxy.trucker/rough.road.cards.back.jpg"
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/668/Mods/Images/rough.road.cards.jpg",
+          "BackURL": "https://raw.githubusercontent.com/rik-github/tts/master/668/Mods/Images/rough.road.cards.back.jpg"
         }
       },
       "GUID": "6a583c"

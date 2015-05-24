@@ -1,0 +1,2 @@
+*.jpg -delta -diff -merge -text
+*.zip -delta -diff -merge -text

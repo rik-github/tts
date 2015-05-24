@@ -1,0 +1,3948 @@
+{
+  "SaveName": "My Space Alert, training",
+  "GameMode": "None",
+  "Date": "5/21/2015 5:27:06 PM",
+  "Table": "Table_Custom",
+  "TableURL": "http://cdni.condenast.co.uk/639x426/a_c/8SleepUnderStars_el_11dec12_alamy_b_639x426.jpg",
+  "Sky": "Sky_Cathedral",
+  "SkyURL": "https://www.dropbox.com/s/3c8qk1ili79s9yh/nasa%20kennedy%20space%20center.jpg?dl=1",
+  "Note": "",
+  "Rules": "App URL:\n\nhttp://www.phipsisoftware.com/SpaceAlert.html\n",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Snapping": true,
+    "Offset": false,
+    "xSize": 1.94,
+    "ySize": 1.94
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAFFElEQVR4Ae3QgQAAAADDoPlTH+SFUGHAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgy8DQx5DAABHyNK3wAAAABJRU5ErkJggg==",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.8800087,
+        "posY": 1.01182652,
+        "posZ": -21.3401146,
+        "rotX": -1.52541446E-07,
+        "rotY": 180.429276,
+        "rotZ": -1.74540588E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "2682ad"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4003239,
+        "posY": 1.01182675,
+        "posZ": -11.6403437,
+        "rotX": 1.50416113E-07,
+        "rotY": 285.004822,
+        "rotZ": -0.0005030969,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Trajectory T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/Ntr1888.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "eadbfb"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -29.09996,
+        "posY": 1.0118264,
+        "posZ": -21.3401146,
+        "rotX": 1.18075318E-08,
+        "rotY": 180.012665,
+        "rotZ": -4.075595E-09,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.red.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "e7cebf"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.94096673,
+        "posY": 1.01182652,
+        "posZ": 21.3387947,
+        "rotX": -9.776649E-07,
+        "rotY": 359.9817,
+        "rotZ": 1.134704E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.blue.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "185014"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -29.1000137,
+        "posY": 1.01182652,
+        "posZ": 21.34004,
+        "rotX": 8.154238E-08,
+        "rotY": 359.982483,
+        "rotZ": 1.05975255E-08,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.green.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "f66527"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -40.7401276,
+        "posY": 1.011826,
+        "posZ": 1.94002557,
+        "rotX": -2.026487E-06,
+        "rotY": 269.99707,
+        "rotZ": 5.7888947E-08,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.yellow.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "ddffc1"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -9.78743,
+        "posY": 2.13062477,
+        "posZ": -11.6389694,
+        "rotX": 270.0,
+        "rotY": 239.917252,
+        "rotZ": 0.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Laser Battery",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.9975527,
+        "b": 0.341386944
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "faad9d"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -9.6875515,
+        "posY": 2.13110614,
+        "posZ": 10.9023676,
+        "rotX": -0.001190163,
+        "rotY": 0.00972065,
+        "rotZ": 0.0179550983,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Laser Battery",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.9975527,
+        "b": 0.3413993
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "1bf419"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": 10.2558279,
+        "posY": 0.826791763,
+        "posZ": -14.98104,
+        "rotX": 1.11604431E-05,
+        "rotY": 0.126778185,
+        "rotZ": 2.12010473E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Damage",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7961715,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.705843,
+            "posY": 3.201715,
+            "posZ": -9.038723,
+            "rotX": 6.3636384,
+            "rotY": 359.932159,
+            "rotZ": 356.7519,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7051525,
+            "posY": 3.204824,
+            "posZ": -9.039556,
+            "rotX": 6.1535697,
+            "rotY": 359.90332,
+            "rotZ": 357.1234,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.94718,
+            "posY": 3.17147136,
+            "posZ": -9.728251,
+            "rotX": 12.7353706,
+            "rotY": 37.59001,
+            "rotZ": 3.63877869,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048149,
+            "posY": 3.21210766,
+            "posZ": -9.041332,
+            "rotX": 5.618532,
+            "rotY": 359.8754,
+            "rotZ": 357.245331,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.704937,
+            "posY": 3.21200418,
+            "posZ": -9.041386,
+            "rotX": 5.60114431,
+            "rotY": 359.872925,
+            "rotZ": 357.176544,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048225,
+            "posY": 3.2077117,
+            "posZ": -9.039718,
+            "rotX": 6.15899372,
+            "rotY": 359.89502,
+            "rotZ": 357.289154,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70534,
+            "posY": 3.201846,
+            "posZ": -9.03852,
+            "rotX": 6.33894253,
+            "rotY": 359.950684,
+            "rotZ": 357.0385,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.975832,
+            "posY": 3.10412741,
+            "posZ": -9.746209,
+            "rotX": 351.7706,
+            "rotY": 2.20377564,
+            "rotZ": 352.49884,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6892033,
+            "posY": 3.179301,
+            "posZ": -9.075152,
+            "rotX": 30.2239571,
+            "rotY": 359.76944,
+            "rotZ": 343.4158,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7057133,
+            "posY": 3.20186019,
+            "posZ": -9.038615,
+            "rotX": 6.37647963,
+            "rotY": 359.9362,
+            "rotZ": 356.830872,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7067242,
+            "posY": 3.18698144,
+            "posZ": -9.034196,
+            "rotX": 7.909284,
+            "rotY": 359.9247,
+            "rotZ": 356.440765,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7000885,
+            "posY": 3.217758,
+            "posZ": -9.032811,
+            "rotX": 3.20756,
+            "rotY": 355.394653,
+            "rotZ": 355.636,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70488,
+            "posY": 3.20676231,
+            "posZ": -9.04011,
+            "rotX": 5.96759,
+            "rotY": 359.89975,
+            "rotZ": 357.257,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7050037,
+            "posY": 3.2069726,
+            "posZ": -9.040034,
+            "rotX": 6.01384354,
+            "rotY": 359.896027,
+            "rotZ": 357.188629,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.9962826,
+            "posY": 3.11074758,
+            "posZ": -9.817073,
+            "rotX": 354.340179,
+            "rotY": 9.089427,
+            "rotZ": 15.0471716,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054176,
+            "posY": 3.206791,
+            "posZ": -9.040011,
+            "rotX": 5.944479,
+            "rotY": 359.9193,
+            "rotZ": 356.942169,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7061558,
+            "posY": 3.19549727,
+            "posZ": -9.037122,
+            "rotX": 7.00576,
+            "rotY": 359.9093,
+            "rotZ": 356.647522,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70759,
+            "posY": 3.17877483,
+            "posZ": -9.032284,
+            "rotX": 8.157628,
+            "rotY": 0.0116300164,
+            "rotZ": 356.049469,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7063885,
+            "posY": 3.18890476,
+            "posZ": -9.034366,
+            "rotX": 7.711042,
+            "rotY": 359.967957,
+            "rotZ": 356.580261,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.704916,
+            "posY": 3.20734549,
+            "posZ": -9.039873,
+            "rotX": 6.086723,
+            "rotY": 359.89563,
+            "rotZ": 357.237762,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70822,
+            "posY": 3.17884851,
+            "posZ": -9.03327,
+            "rotX": 8.251204,
+            "rotY": 359.916748,
+            "rotZ": 355.6834,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048073,
+            "posY": 3.20702863,
+            "posZ": -9.0398035,
+            "rotX": 5.954713,
+            "rotY": 359.9344,
+            "rotZ": 357.2849,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.709877,
+            "posY": 3.23640823,
+            "posZ": -9.041933,
+            "rotX": 355.13028,
+            "rotY": 354.6444,
+            "rotZ": 355.066864,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.695015,
+            "posY": 3.14537883,
+            "posZ": -8.995825,
+            "rotX": 29.9571648,
+            "rotY": 18.2679081,
+            "rotZ": 356.557617,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 24.02064,
+            "posY": 3.18893051,
+            "posZ": -9.911782,
+            "rotX": 359.638275,
+            "rotY": 15.807189,
+            "rotZ": 15.84886,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70496,
+            "posY": 3.20716,
+            "posZ": -9.039953,
+            "rotX": 6.050406,
+            "rotY": 359.8959,
+            "rotZ": 357.2129,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7465611,
+            "posY": 3.15833664,
+            "posZ": -9.662023,
+            "rotX": 355.5345,
+            "rotY": 0.294994056,
+            "rotZ": 351.466339,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9264717,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70487,
+            "posY": 3.20752883,
+            "posZ": -9.039795,
+            "rotX": 6.122785,
+            "rotY": 359.8952,
+            "rotZ": 357.263336,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054939,
+            "posY": 3.20673537,
+            "posZ": -9.040205,
+            "rotX": 5.99094439,
+            "rotY": 359.8846,
+            "rotZ": 356.909668,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.9520912,
+            "posY": 3.20206928,
+            "posZ": -9.890896,
+            "rotX": 6.689148,
+            "rotY": 25.6805382,
+            "rotZ": 356.772919,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6669579,
+            "posY": 3.24274635,
+            "posZ": -9.061576,
+            "rotX": 352.873322,
+            "rotY": 341.681183,
+            "rotZ": 354.316162,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048912,
+            "posY": 3.20665,
+            "posZ": -9.040159,
+            "rotX": 5.945817,
+            "rotY": 359.900024,
+            "rotZ": 357.249664,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7047749,
+            "posY": 3.2078917,
+            "posZ": -9.039642,
+            "rotX": 6.19483852,
+            "rotY": 359.8944,
+            "rotZ": 357.315765,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6975918,
+            "posY": 3.17401457,
+            "posZ": -9.009364,
+            "rotX": 9.714457,
+            "rotY": 349.6681,
+            "rotZ": 355.5706,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7071819,
+            "posY": 3.18741536,
+            "posZ": -9.035109,
+            "rotX": 7.455346,
+            "rotY": 359.968445,
+            "rotZ": 356.161652,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048664,
+            "posY": 3.20687556,
+            "posZ": -9.040061,
+            "rotX": 5.989714,
+            "rotY": 359.899475,
+            "rotZ": 357.26474,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054214,
+            "posY": 3.20687556,
+            "posZ": -9.039989,
+            "rotX": 5.965934,
+            "rotY": 359.91748,
+            "rotZ": 356.937042,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7009239,
+            "posY": 3.20543766,
+            "posZ": -9.039752,
+            "rotX": 4.15246773,
+            "rotY": 351.469849,
+            "rotZ": 354.864868,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048531,
+            "posY": 3.20698953,
+            "posZ": -9.040011,
+            "rotX": 6.011911,
+            "rotY": 359.898956,
+            "rotZ": 357.273224,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 11.0262918,
+            "posY": 2.97854877,
+            "posZ": -15.6907578,
+            "rotX": 352.408783,
+            "rotY": 0.9932618,
+            "rotZ": 352.7701,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9264751,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "249130"
+        }
+      ],
+      "GUID": "1de41f"
+    },
+    {
+      "Name": "Tablet",
+      "Transform": {
+        "posX": 48.4998245,
+        "posY": 1.541002,
+        "posZ": -15.5201988,
+        "rotX": -8.532211E-06,
+        "rotY": 269.989929,
+        "rotZ": 4.686575E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ship Computer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "Tablet": {
+        "PageURL": "http://www.phipsisoftware.com/SpaceAlert.html"
+      },
+      "GUID": "760879"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.803472,
+        "posY": 2.34985423,
+        "posZ": -2.81555,
+        "rotX": 0.00136473367,
+        "rotY": 180.947128,
+        "rotZ": 179.982239,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Energy capsule",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000976,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=Jskr6fhS",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "af6467"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 51.0531654,
+        "posY": 1.89241254,
+        "posZ": 24.14936,
+        "rotX": -7.514553E-05,
+        "rotY": 359.985535,
+        "rotZ": 179.999985,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Mission step marker",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.600168943
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=XeuULnMx",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "697bf8"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.126648411,
+        "posY": 1.896589,
+        "posZ": 0.8871446,
+        "rotX": 0.01784793,
+        "rotY": 269.959778,
+        "rotZ": 0.001115703,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.blue.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "847bc0"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.0347249843,
+        "posY": 1.89656806,
+        "posZ": -1.59820807,
+        "rotX": 0.01783003,
+        "rotY": 269.95285,
+        "rotZ": 0.00111247052,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.red.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "f7f2e5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.89310014,
+        "posY": 1.89605439,
+        "posZ": 1.30611467,
+        "rotX": 0.017834371,
+        "rotY": 269.960175,
+        "rotZ": 0.00111454993,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.yellow.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "f8be6e"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.340076059,
+        "posY": 1.89670479,
+        "posZ": -0.49969548,
+        "rotX": 0.0178238172,
+        "rotY": 269.950073,
+        "rotZ": 0.00112366548,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.green.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "67cc57"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.85783339,
+        "posY": 1.89600182,
+        "posZ": -1.86959,
+        "rotX": 0.0178538,
+        "rotY": 269.937073,
+        "rotZ": 0.00112591323,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "41c703"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.2203732,
+        "posY": 1.41182637,
+        "posZ": 3.87959075,
+        "rotX": -3.559744E-06,
+        "rotY": 270.0264,
+        "rotZ": 1.77838933E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Captain",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.captain.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "eac70e"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 40.7398033,
+        "posY": 1.41182637,
+        "posZ": -15.5202122,
+        "rotX": -4.102437E-08,
+        "rotY": 270.027557,
+        "rotZ": 2.52543259E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Communication Officer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.Communication.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "81c341"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -31.04037,
+        "posY": 1.41182637,
+        "posZ": 3.87958312,
+        "rotX": 4.08576852E-06,
+        "rotY": 270.028564,
+        "rotZ": -2.19169624E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Chief Engineer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.engineer.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "362a39"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.22037,
+        "posY": 1.41182637,
+        "posZ": -0.00041030912,
+        "rotX": 1.45342227E-07,
+        "rotY": 269.994324,
+        "rotZ": -4.21842316E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Lieutenant",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.lieutenant.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "6e14a1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -31.0399761,
+        "posY": 1.41182637,
+        "posZ": -3.88052058,
+        "rotX": 1.02708391E-07,
+        "rotY": 270.035522,
+        "rotZ": -4.23303533E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Science Officer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.science.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "3c218e"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.2203732,
+        "posY": 1.41182637,
+        "posZ": -3.88040519,
+        "rotX": 1.71110258E-07,
+        "rotY": 270.033936,
+        "rotZ": -7.09027461E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Chief of Security",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.security.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "da15c2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 36.8598061,
+        "posY": 1.41182613,
+        "posZ": 11.6397753,
+        "rotX": 8.822922E-06,
+        "rotY": 270.0521,
+        "rotZ": -6.31632975E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Tactical Officer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216336,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.tactical.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "ce8340"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 46.55994,
+        "posY": 1.04660392,
+        "posZ": 9.699861,
+        "rotX": -3.879675E-05,
+        "rotY": 269.936554,
+        "rotZ": 7.304075E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Mission Steps",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.786801,
+        "g": 0.786801,
+        "b": 0.786801
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "https://github.com/rik-github/tts/mission.steps.board.tutorial.jpg",
+        "WidthScale": 2.29864264
+      },
+      "GUID": "4b65cc"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.603542,
+        "posY": 2.34990382,
+        "posZ": -3.418526,
+        "rotX": 0.00145455217,
+        "rotY": 181.010284,
+        "rotZ": 179.982162,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Energy capsule",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.800103366,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=Jskr6fhS",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "697aaa"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.297914,
+        "posY": 2.35000849,
+        "posZ": -2.91669321,
+        "rotX": 0.00152358238,
+        "rotY": 181.003342,
+        "rotZ": 179.982254,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Energy capsule",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.800103366,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=Jskr6fhS",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "1c48f6"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -8.397071,
+        "posY": 2.13129473,
+        "posZ": 0.478831053,
+        "rotX": -0.0009321526,
+        "rotY": 359.462463,
+        "rotZ": 0.018287085,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "92393f"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -8.492213,
+        "posY": 2.13125443,
+        "posZ": -0.07340968,
+        "rotX": 270.0,
+        "rotY": 90.03584,
+        "rotZ": 0.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "7a8ac1"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -7.898454,
+        "posY": 2.13144541,
+        "posZ": 0.336367249,
+        "rotX": -0.0009252567,
+        "rotY": 359.422577,
+        "rotZ": 0.0183455832,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "49c6f7"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -9.014452,
+        "posY": 2.13126421,
+        "posZ": 8.407573,
+        "rotX": -0.00113790773,
+        "rotY": 0.026314361,
+        "rotZ": 0.0179516785,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "77f95a"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -8.219665,
+        "posY": 2.13151884,
+        "posZ": 8.950895,
+        "rotX": -0.001245936,
+        "rotY": 0.03483469,
+        "rotZ": 0.0179893021,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "d10526"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -8.197977,
+        "posY": 2.13115144,
+        "posZ": -9.741994,
+        "rotX": -0.00116271514,
+        "rotY": 359.99118,
+        "rotZ": 0.0179703683,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "724505"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -8.941649,
+        "posY": 2.13093853,
+        "posZ": -8.967077,
+        "rotX": 0.00111352035,
+        "rotY": 179.969543,
+        "rotZ": 179.982086,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "c3d09c"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": 2.529364,
+        "posY": 2.07208824,
+        "posZ": -2.82622576,
+        "rotX": -0.00122243958,
+        "rotY": 0.03594642,
+        "rotZ": 0.0180636737,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "420f01"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": 0.5667415,
+        "posY": 2.07135177,
+        "posZ": -9.483255,
+        "rotX": -0.00127337314,
+        "rotY": 0.0405953079,
+        "rotZ": 0.01805722,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "9c3a39"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": 0.223586246,
+        "posY": 2.071613,
+        "posZ": 8.86015,
+        "rotX": -0.00131595926,
+        "rotY": 0.0511469059,
+        "rotZ": 0.018084,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000517,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "bff7de"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 27.15993,
+        "posY": 1.08353961,
+        "posZ": 3.879843,
+        "rotX": 1.52259338E-06,
+        "rotY": 270.015747,
+        "rotZ": -5.94264066E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Example Threat",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133912,
+        "g": 0.7133912,
+        "b": 0.7133912
+      },
+      "Grid": false,
+      "Locked": false,
+      "CardID": 408,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/lEszszv.jpg",
+          "BackURL": "http://i.imgur.com/78LNkt2.jpg"
+        }
+      },
+      "GUID": "5cf4c2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 32.97994,
+        "posY": 1.08354008,
+        "posZ": 3.87984085,
+        "rotX": -1.91634058E-06,
+        "rotY": 270.005371,
+        "rotZ": 1.65588813E-06,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Example Threat",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133912,
+        "g": 0.7133912,
+        "b": 0.7133912
+      },
+      "Grid": false,
+      "Locked": false,
+      "CardID": 406,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/lEszszv.jpg",
+          "BackURL": "http://i.imgur.com/78LNkt2.jpg"
+        }
+      },
+      "GUID": "c37de3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -19.4001446,
+        "posY": 1.51464808,
+        "posZ": -0.00218054582,
+        "rotX": -2.004476E-06,
+        "rotY": 89.91886,
+        "rotZ": 180.000015,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Actions",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134419,
+        "g": 0.7134419,
+        "b": 0.7134419
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        150,
+        133,
+        111,
+        100,
+        219,
+        217,
+        130,
+        166,
+        114,
+        156,
+        126,
+        109,
+        207,
+        152,
+        158,
+        124,
+        136,
+        106,
+        134,
+        102,
+        165,
+        206,
+        140,
+        104,
+        105,
+        101,
+        168,
+        108,
+        214,
+        120,
+        123,
+        160,
+        139,
+        118,
+        201,
+        122,
+        138,
+        205,
+        144,
+        216,
+        112,
+        204,
+        141,
+        209,
+        212,
+        121,
+        164,
+        153,
+        115,
+        167,
+        127,
+        147,
+        208,
+        163,
+        132,
+        159,
+        149,
+        131,
+        128,
+        110,
+        119,
+        157,
+        200,
+        117,
+        146,
+        145,
+        211,
+        113,
+        202,
+        148,
+        161,
+        151,
+        107,
+        203,
+        143,
+        129,
+        162,
+        215,
+        137,
+        220,
+        116,
+        142,
+        218,
+        213,
+        155,
+        103,
+        210,
+        125,
+        154,
+        135
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/HkK2oWt.jpg",
+          "BackURL": "http://i.imgur.com/fhB1SoL.jpg"
+        },
+        "2": {
+          "FaceURL": "http://i.imgur.com/XYeQzb5.jpg",
+          "BackURL": "http://i.imgur.com/fhB1SoL.jpg"
+        }
+      },
+      "GUID": "855944"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.97995,
+        "posY": 1.15692735,
+        "posZ": 0.000129726512,
+        "rotX": -3.6111353E-06,
+        "rotY": 269.964172,
+        "rotZ": 180.0,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Threats",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133873,
+        "g": 0.7133873,
+        "b": 0.7133873
+      },
+      "Grid": false,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        411,
+        407,
+        401,
+        409,
+        405,
+        404
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/lEszszv.jpg",
+          "BackURL": "http://i.imgur.com/78LNkt2.jpg"
+        }
+      },
+      "GUID": "8f610a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 31.0397282,
+        "posY": 1.01068234,
+        "posZ": -3.88027072,
+        "rotX": 1.02891264E-07,
+        "rotY": 270.073853,
+        "rotZ": -3.88068528E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921651,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.2.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "716fe4"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 32.9797134,
+        "posY": 1.01068234,
+        "posZ": -3.88026953,
+        "rotX": 3.800604E-07,
+        "rotY": 270.06424,
+        "rotZ": 1.71311115E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216485,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.1.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a90e84"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 29.0997276,
+        "posY": 1.01068234,
+        "posZ": -3.88027,
+        "rotX": -1.78318835E-08,
+        "rotY": 270.079559,
+        "rotZ": 2.57923283E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T3",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921646,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.3.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "27a98a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 27.1597271,
+        "posY": 1.01068234,
+        "posZ": -3.88027048,
+        "rotX": 3.39833321E-07,
+        "rotY": 270.06955,
+        "rotZ": -5.7266778E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921651,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.4.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "b53dbc"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 32.9797173,
+        "posY": 1.01068234,
+        "posZ": -5.82026863,
+        "rotX": 5.25765358E-07,
+        "rotY": 270.046326,
+        "rotZ": -5.172826E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921651,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.1.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "c3e602"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 31.0397282,
+        "posY": 1.01068234,
+        "posZ": -5.82027054,
+        "rotX": -2.44965372E-06,
+        "rotY": 270.052948,
+        "rotZ": -1.16745387E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921654,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.2.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "d1db1a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 29.0997276,
+        "posY": 1.01068258,
+        "posZ": -5.820269,
+        "rotX": 2.36087459E-07,
+        "rotY": 270.0578,
+        "rotZ": 2.14590315E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T3",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216485,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.3.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "0c3f11"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 27.1597271,
+        "posY": 1.01068234,
+        "posZ": -5.82027,
+        "rotX": 2.719429E-06,
+        "rotY": 270.053925,
+        "rotZ": 1.20369805E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921654,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.4.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "2a9710"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": -4.7363925,
+        "posY": 1.05626392,
+        "posZ": -0.3159118,
+        "rotX": 0.01761209,
+        "rotY": 269.995422,
+        "rotZ": 0.00114697753,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7868794,
+        "g": 0.7868794,
+        "b": 0.7868794
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/3vYswvZ.jpg",
+        "WidthScale": 1.355372
+      },
+      "GUID": "838e84"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": -19.055933,
+        "posY": 0.7805345,
+        "posZ": 14.6589432,
+        "rotX": -1.696488E-05,
+        "rotY": 0.0818876,
+        "rotZ": 2.723455E-05,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Power",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.310038239,
+        "g": 0.99999994,
+        "b": 0.3414117
+      },
+      "Grid": false,
+      "Locked": true,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.4306545,
+            "posY": 2.8068583,
+            "posZ": -9.550126,
+            "rotX": 30.9296417,
+            "rotY": 219.087036,
+            "rotZ": 356.823242,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "866279"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.5656223,
+            "posY": 2.74071455,
+            "posZ": -9.985253,
+            "rotX": 319.395721,
+            "rotY": 256.6933,
+            "rotZ": 229.973724,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "e49278"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -27.07581,
+            "posY": 3.80601263,
+            "posZ": -9.9376955,
+            "rotX": 0.4676153,
+            "rotY": 336.838928,
+            "rotZ": 223.235321,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "81d49e"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.8679562,
+            "posY": 1.78946424,
+            "posZ": -7.81173229,
+            "rotX": 342.423767,
+            "rotY": 44.03505,
+            "rotZ": 285.356445,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "dbf95f"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.01906,
+            "posY": 3.33731627,
+            "posZ": -10.1554413,
+            "rotX": 41.0631,
+            "rotY": 341.626984,
+            "rotZ": 216.593033,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "01bee7"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.6521835,
+            "posY": 3.824698,
+            "posZ": -8.879763,
+            "rotX": 24.8358536,
+            "rotY": 116.923882,
+            "rotZ": 96.18697,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "1894b2"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.821228,
+            "posY": 3.38642621,
+            "posZ": -10.5448294,
+            "rotX": 358.2479,
+            "rotY": 291.393219,
+            "rotZ": 298.234375,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "0e46f5"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.4861,
+            "posY": 3.801396,
+            "posZ": -9.178827,
+            "rotX": 5.056001,
+            "rotY": 286.378479,
+            "rotZ": 3.70400143,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "345b88"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.0093269,
+            "posY": 3.66981339,
+            "posZ": -9.434357,
+            "rotX": 24.7853336,
+            "rotY": 109.280121,
+            "rotZ": 50.6790237,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "65ed7a"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.7342319,
+            "posY": 3.29331636,
+            "posZ": -9.74458,
+            "rotX": 15.7241011,
+            "rotY": 223.831436,
+            "rotZ": 153.767792,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "1bdb48"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.8106155,
+            "posY": 2.99170732,
+            "posZ": -10.8110628,
+            "rotX": 339.6895,
+            "rotY": 24.7700634,
+            "rotZ": 265.1653,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "2e74ae"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -27.0456257,
+            "posY": 3.903082,
+            "posZ": -9.21913,
+            "rotX": 299.543823,
+            "rotY": 102.69371,
+            "rotZ": 349.145538,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "5d7be1"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.14878,
+            "posY": 3.28461123,
+            "posZ": -10.47849,
+            "rotX": 78.17368,
+            "rotY": 314.143066,
+            "rotZ": 224.26506,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.8000259,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "4fab43"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.0612583,
+            "posY": 3.71622324,
+            "posZ": -9.401945,
+            "rotX": 51.2404366,
+            "rotY": 102.214714,
+            "rotZ": 232.137558,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "474831"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.5740967,
+            "posY": 3.08769917,
+            "posZ": -9.276318,
+            "rotX": 33.81734,
+            "rotY": 354.5955,
+            "rotZ": 321.778,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "a7dbf8"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.67073,
+            "posY": 2.987384,
+            "posZ": -8.642561,
+            "rotX": 348.548035,
+            "rotY": 206.097626,
+            "rotZ": 105.148048,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "faeccc"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.28005,
+            "posY": 3.36733031,
+            "posZ": -8.51862,
+            "rotX": 63.4430542,
+            "rotY": 355.1135,
+            "rotZ": 326.433868,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "dc1660"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.3505363,
+            "posY": 3.56645417,
+            "posZ": -8.629542,
+            "rotX": 321.001862,
+            "rotY": 255.4859,
+            "rotZ": 26.05293,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "31068f"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.0703487,
+            "posY": 3.62625718,
+            "posZ": -9.111603,
+            "rotX": 3.88664532,
+            "rotY": 205.097824,
+            "rotZ": 115.824509,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "0492c8"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.6832981,
+            "posY": 2.05166936,
+            "posZ": -10.65149,
+            "rotX": 305.416626,
+            "rotY": 271.470673,
+            "rotZ": 110.07946,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "b3e337"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.6739216,
+            "posY": 3.579517,
+            "posZ": -10.2090054,
+            "rotX": 43.44643,
+            "rotY": 315.426056,
+            "rotZ": 218.305908,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "6a90e6"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.7673225,
+            "posY": 3.95158172,
+            "posZ": -9.356775,
+            "rotX": 310.0675,
+            "rotY": 54.4820251,
+            "rotZ": 316.604858,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "339b5b"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.1501083,
+            "posY": 3.123215,
+            "posZ": -10.53496,
+            "rotX": 349.1892,
+            "rotY": 23.4256954,
+            "rotZ": 357.662231,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "b57ca2"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.1446724,
+            "posY": 3.27926588,
+            "posZ": -10.3332386,
+            "rotX": 335.1265,
+            "rotY": 110.258362,
+            "rotZ": 339.6472,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "f83e0a"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.83253,
+            "posY": 3.43173957,
+            "posZ": -10.431016,
+            "rotX": 49.9331932,
+            "rotY": 18.5554581,
+            "rotZ": 136.433243,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "5e34d7"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.8679581,
+            "posY": 3.84943986,
+            "posZ": -9.838083,
+            "rotX": 37.39537,
+            "rotY": 198.071686,
+            "rotZ": 212.24913,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "52d576"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.76128,
+            "posY": 3.96662855,
+            "posZ": -9.716095,
+            "rotX": 43.6961975,
+            "rotY": 246.069321,
+            "rotZ": 63.95695,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "ff01e5"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.6557846,
+            "posY": 3.90096474,
+            "posZ": -9.835125,
+            "rotX": 57.90468,
+            "rotY": 89.46319,
+            "rotZ": 291.038544,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "890926"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.5947762,
+            "posY": 2.08660817,
+            "posZ": -8.559644,
+            "rotX": 286.877441,
+            "rotY": 271.5877,
+            "rotZ": 120.004211,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "9db7b8"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.0485859,
+            "posY": 3.45807385,
+            "posZ": -9.793961,
+            "rotX": 315.208069,
+            "rotY": 282.73996,
+            "rotZ": 280.675385,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "ca14fa"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.1374474,
+            "posY": 3.65312,
+            "posZ": -9.706079,
+            "rotX": 29.54547,
+            "rotY": 306.619873,
+            "rotZ": 100.57814,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "ac67e4"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.403204,
+            "posY": 3.715205,
+            "posZ": -9.769986,
+            "rotX": 43.70328,
+            "rotY": 89.94824,
+            "rotZ": 343.1021,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "7a6d18"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.36701,
+            "posY": 3.48740435,
+            "posZ": -10.3017759,
+            "rotX": 14.3621311,
+            "rotY": 235.894714,
+            "rotZ": 89.6131439,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.800020158,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "3d4817"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.7692585,
+            "posY": 3.52845764,
+            "posZ": -10.3720407,
+            "rotX": 81.42407,
+            "rotY": 17.771843,
+            "rotZ": 212.1584,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "7a43ed"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.8469086,
+            "posY": 3.57085514,
+            "posZ": -9.264523,
+            "rotX": 84.51831,
+            "rotY": 110.399933,
+            "rotZ": 359.527832,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "6af9ef"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.6542473,
+            "posY": 3.84878063,
+            "posZ": -9.280488,
+            "rotX": 74.46691,
+            "rotY": 37.8019829,
+            "rotZ": 100.987991,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "456213"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.6486073,
+            "posY": 3.79240251,
+            "posZ": -9.48658,
+            "rotX": 77.80017,
+            "rotY": 295.77298,
+            "rotZ": 185.511963,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "3530ba"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.8466225,
+            "posY": 3.337594,
+            "posZ": -8.902609,
+            "rotX": 17.4227352,
+            "rotY": 100.305656,
+            "rotZ": 44.49116,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "594414"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.7612286,
+            "posY": 3.49065566,
+            "posZ": -9.411758,
+            "rotX": 5.28782034,
+            "rotY": 32.741787,
+            "rotZ": 270.926117,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "e43ca5"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.570591,
+            "posY": 2.11429715,
+            "posZ": -10.4260578,
+            "rotX": 355.3547,
+            "rotY": 106.4567,
+            "rotZ": 333.52298,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "7b366c"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.69736,
+            "posY": 3.05624247,
+            "posZ": -10.010932,
+            "rotX": 340.547638,
+            "rotY": 2.21960258,
+            "rotZ": 37.9334526,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "91c716"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.0644665,
+            "posY": 3.335145,
+            "posZ": -10.0324516,
+            "rotX": 319.469055,
+            "rotY": 129.192764,
+            "rotZ": 152.675842,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "5c8704"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.9122219,
+            "posY": 3.07949853,
+            "posZ": -10.2803411,
+            "rotX": 358.9996,
+            "rotY": 256.329132,
+            "rotZ": 153.959412,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "933f2d"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -25.9957085,
+            "posY": 3.648493,
+            "posZ": -9.178483,
+            "rotX": 347.871674,
+            "rotY": 296.8319,
+            "rotZ": 181.983185,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "57b449"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -26.53832,
+            "posY": 3.768239,
+            "posZ": -9.194245,
+            "rotX": 62.3211823,
+            "rotY": 250.357986,
+            "rotZ": 345.55542,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "6680fa"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -32.7272453,
+            "posY": 3.82788539,
+            "posZ": -4.68146372,
+            "rotX": 9.129898,
+            "rotY": 20.0309753,
+            "rotZ": 14.4720564,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "986fae"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -32.81614,
+            "posY": 3.87355781,
+            "posZ": -5.22044039,
+            "rotX": 2.01489115,
+            "rotY": 19.5292854,
+            "rotZ": 14.19717,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "2d144c"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -32.1516037,
+            "posY": 3.66885042,
+            "posZ": -5.015185,
+            "rotX": 284.5702,
+            "rotY": 28.8952312,
+            "rotZ": 250.194809,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "d26d64"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -32.29502,
+            "posY": 3.73094034,
+            "posZ": -5.556764,
+            "rotX": 5.851701,
+            "rotY": 93.81089,
+            "rotZ": 9.09534,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.80002296,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "d180e5"
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -19.5364552,
+            "posY": 3.68682051,
+            "posZ": 14.2061987,
+            "rotX": 347.488434,
+            "rotY": 45.0387077,
+            "rotZ": 1.4057225,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Energy",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.800034463,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": "c402db"
+        }
+      ],
+      "GUID": "4a560b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.3999252,
+        "posY": 1.0118264,
+        "posZ": 11.63957,
+        "rotX": -3.62244123E-07,
+        "rotY": 255.0073,
+        "rotZ": -0.000296886836,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Trajectory T6",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/kPw51SJ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "03f281"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4002151,
+        "posY": 1.01182663,
+        "posZ": -0.000443200115,
+        "rotX": -4.30456367E-07,
+        "rotY": 270.0059,
+        "rotZ": -0.000441745535,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Trajectory T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/8pMzkoF.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "db1072"
+    }
+  ]
+}

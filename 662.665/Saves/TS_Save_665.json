@@ -1,0 +1,3701 @@
+{
+  "SaveName": "My Space Alert",
+  "GameMode": "None",
+  "Date": "5/19/2015 12:41:07 PM",
+  "Table": "Table_Custom",
+  "TableURL": "https://github.com/rik-github/tts/space.background.optimized.jpg",
+  "Sky": "Sky_Cathedral",
+  "Note": "",
+  "Rules": "App URL:\n\nhttp://www.phipsisoftware.com/SpaceAlert.html\n",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Snapping": true,
+    "Offset": false,
+    "xSize": 1.94,
+    "ySize": 1.94
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAFFElEQVR4Ae3QgQAAAADDoPlTH+SFUGHAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgy8DQx5DAABHyNK3wAAAABJRU5ErkJggg==",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.774079,
+        "posY": 1.01182687,
+        "posZ": -15.9289494,
+        "rotX": 7.50794925E-06,
+        "rotY": 180.841263,
+        "rotZ": 1.1547575E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "e98ff2"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 2.78230286,
+        "posY": 0.9850142,
+        "posZ": 0.5122285,
+        "rotX": -2.933094E-05,
+        "rotY": 269.945862,
+        "rotZ": 8.45151E-06,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7868402,
+        "g": 0.7868402,
+        "b": 0.7868402
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/3vYswvZ.jpg",
+        "WidthScale": 1.355372
+      },
+      "GUID": "48474f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 21.3518066,
+        "posY": 1.01182628,
+        "posZ": -15.9283609,
+        "rotX": -7.179707E-08,
+        "rotY": 180.886719,
+        "rotZ": 1.00747508E-08,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.8_12.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.8_12.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "8742c9"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4000168,
+        "posY": 1.01182628,
+        "posZ": -5.82006454,
+        "rotX": -5.052522E-07,
+        "rotY": 269.9871,
+        "rotZ": 6.80891526E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T7",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/oVON9HA.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "db75aa"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.40002,
+        "posY": 1.01182628,
+        "posZ": -3.88007116,
+        "rotX": 3.91146671E-08,
+        "rotY": 270.019775,
+        "rotZ": -1.65095446E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T6",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/kPw51SJ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "fead19"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4000225,
+        "posY": 1.01182628,
+        "posZ": -1.94007146,
+        "rotX": 4.741011E-08,
+        "rotY": 270.017761,
+        "rotZ": -1.82219139E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T5",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/zD7lKRV.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "120cc1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4000282,
+        "posY": 1.01182628,
+        "posZ": -7.279212E-05,
+        "rotX": 6.0275795E-07,
+        "rotY": 270.0155,
+        "rotZ": -4.984239E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/Ntr1888.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "e051c9"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.400013,
+        "posY": 1.01182628,
+        "posZ": 1.93993807,
+        "rotX": 5.791226E-07,
+        "rotY": 270.001282,
+        "rotZ": -1.24452913E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T3",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/LXQ69b9.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "eee914"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4000263,
+        "posY": 1.01182628,
+        "posZ": 3.87992668,
+        "rotX": 1.17057184E-07,
+        "rotY": 270.014984,
+        "rotZ": 1.21489848E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/8pMzkoF.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "dac729"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.4000587,
+        "posY": 1.18962657,
+        "posZ": 5.82003,
+        "rotX": 1.66909E-07,
+        "rotY": 269.982727,
+        "rotZ": 180.000244,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trajectory T1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=uvApqHzG",
+        "DiffuseURL": "http://i.imgur.com/6QRbWTZ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "f4d726"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -11.63148,
+        "posY": 1.5146482,
+        "posZ": 9.737477,
+        "rotX": 7.09315873E-06,
+        "rotY": 90.7995148,
+        "rotZ": 179.999985,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713363945,
+        "g": 0.713363945,
+        "b": 0.713363945
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        138,
+        152,
+        131,
+        118,
+        160,
+        164,
+        134,
+        104,
+        113,
+        212,
+        209,
+        213,
+        111,
+        210,
+        135,
+        120,
+        217,
+        126,
+        128,
+        123,
+        159,
+        165,
+        106,
+        130,
+        206,
+        102,
+        162,
+        117,
+        147,
+        107,
+        150,
+        154,
+        149,
+        200,
+        109,
+        119,
+        146,
+        168,
+        114,
+        156,
+        204,
+        139,
+        208,
+        110,
+        220,
+        100,
+        121,
+        157,
+        141,
+        155,
+        142,
+        202,
+        145,
+        166,
+        163,
+        207,
+        203,
+        129,
+        136,
+        108,
+        211,
+        148,
+        133,
+        122,
+        127,
+        125,
+        167,
+        219,
+        216,
+        205,
+        215,
+        101,
+        144,
+        214,
+        153,
+        124,
+        158,
+        116,
+        151,
+        112,
+        132,
+        137,
+        161,
+        143,
+        218,
+        115,
+        201,
+        140,
+        103,
+        105
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/HkK2oWt.jpg",
+          "BackURL": "http://i.imgur.com/fhB1SoL.jpg"
+        },
+        "2": {
+          "FaceURL": "http://i.imgur.com/XYeQzb5.jpg",
+          "BackURL": "http://i.imgur.com/fhB1SoL.jpg"
+        }
+      },
+      "GUID": "f7ffd9"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -19.3861256,
+        "posY": 1.01182628,
+        "posZ": -15.9209728,
+        "rotX": 1.90398123E-06,
+        "rotY": 180.8856,
+        "rotZ": -1.09848065E-06,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.red.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "8ff654"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -5.80769825,
+        "posY": 1.011826,
+        "posZ": -15.929409,
+        "rotX": -2.21735645E-05,
+        "rotY": 180.412979,
+        "rotZ": 1.0617797E-06,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.8_12.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.8_12.red.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "daf8ec"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 5.81953526,
+        "posY": 0.9482429,
+        "posZ": 15.5222473,
+        "rotX": 1.73234162E-06,
+        "rotY": 359.977264,
+        "rotZ": -1.16418541E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.8_12.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.8_12.blue.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "e777df"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.3995132,
+        "posY": 0.9482422,
+        "posZ": 15.5220337,
+        "rotX": 1.89171476E-06,
+        "rotY": 0.0143855838,
+        "rotZ": -3.245132E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.blue.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "a7ab9c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -7.75999832,
+        "posY": 0.948242843,
+        "posZ": 15.5199995,
+        "rotX": 1.05233809E-07,
+        "rotY": 359.98175,
+        "rotZ": 1.21296452E-07,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.green.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "3aa308"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -21.3405075,
+        "posY": 0.9482429,
+        "posZ": 15.5222931,
+        "rotX": 2.66096663E-07,
+        "rotY": -0.003774675,
+        "rotZ": -8.744519E-10,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.8_12.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.8_12.green.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "7420dc"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.2201176,
+        "posY": 1.01182663,
+        "posZ": 5.8200326,
+        "rotX": -4.566761E-06,
+        "rotY": 270.924683,
+        "rotZ": -1.33723752E-08,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.1_7.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.1_7.yellow.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "c2740b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.2202187,
+        "posY": 1.01182616,
+        "posZ": -7.75993824,
+        "rotX": 3.38362383E-06,
+        "rotY": 270.014374,
+        "rotZ": -7.678226E-08,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/action.board.8_12.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/action.board.8_12.yellow.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4
+      },
+      "GUID": "9397cb"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -7.93148375,
+        "posY": 1.09474123,
+        "posZ": 9.713096,
+        "rotX": 1.78858681E-06,
+        "rotY": 270.5065,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133327,
+        "g": 0.7133327,
+        "b": 0.7133327
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        302,
+        300,
+        304,
+        301,
+        305,
+        303
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/DvuEeT4.jpg",
+          "BackURL": "http://i.imgur.com/jgjjrJH.jpg"
+        }
+      },
+      "GUID": "21bb6d"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -7.947417,
+        "posY": 1.09889328,
+        "posZ": -5.935579,
+        "rotX": -0.00106937531,
+        "rotY": 270.53653,
+        "rotZ": 180.000656,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133327,
+        "g": 0.7133327,
+        "b": 0.7133327
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        405,
+        403,
+        400,
+        408,
+        401,
+        407,
+        410,
+        409,
+        404,
+        406,
+        411,
+        402
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/lEszszv.jpg",
+          "BackURL": "http://i.imgur.com/78LNkt2.jpg"
+        }
+      },
+      "GUID": "b69f2c"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -7.91619062,
+        "posY": 1.16568,
+        "posZ": -7.7676096,
+        "rotX": 0.000103946943,
+        "rotY": 270.533478,
+        "rotZ": 184.8622,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133327,
+        "g": 0.7133327,
+        "b": 0.7133327
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        508,
+        507,
+        502,
+        501,
+        509,
+        506,
+        503,
+        500,
+        504,
+        505
+      ],
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://i.imgur.com/qUwshF0.jpg",
+          "BackURL": "http://i.imgur.com/ib8ViVU.jpg"
+        }
+      },
+      "GUID": "146eb6"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -11.6409,
+        "posY": 1.0776335,
+        "posZ": -5.818435,
+        "rotX": -2.93915855E-06,
+        "rotY": 270.0552,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133483,
+        "g": 0.7133483,
+        "b": 0.7133483
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        604,
+        605,
+        607,
+        600,
+        602,
+        601,
+        603,
+        606
+      ],
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/MHtm9GC.jpg",
+          "BackURL": "http://i.imgur.com/uV2eYsN.jpg"
+        }
+      },
+      "GUID": "029256"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -11.6389256,
+        "posY": 1.098404,
+        "posZ": -7.68669367,
+        "rotX": 1.71876152E-07,
+        "rotY": 269.813,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133327,
+        "g": 0.7133327,
+        "b": 0.7133327
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        703,
+        705,
+        701,
+        700,
+        702,
+        704,
+        706
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/HCnZ2Zm.jpg",
+          "BackURL": "http://i.imgur.com/LRjjAPe.jpg"
+        }
+      },
+      "GUID": "ec0480"
+    },
+    {
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": -0.889931,
+        "posY": 1.88675606,
+        "posZ": 6.951575,
+        "rotX": -2.15458258E-05,
+        "rotY": 270.489319,
+        "rotZ": 1.27544427E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Battle Droid",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "ef34ce"
+    },
+    {
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": 3.89486337,
+        "posY": 1.88676012,
+        "posZ": -5.768684,
+        "rotX": -4.119921E-05,
+        "rotY": 270.590363,
+        "rotZ": -2.833284E-06,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Battle Droid",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "609a8d"
+    },
+    {
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": -2.54706621,
+        "posY": 1.82426178,
+        "posZ": -4.505298,
+        "rotX": 1.80551774E-06,
+        "rotY": 315.700256,
+        "rotZ": 1.1695E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Missile",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "7c2ea1"
+    },
+    {
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": -2.06905031,
+        "posY": 1.82426155,
+        "posZ": -4.168974,
+        "rotX": 1.935568E-05,
+        "rotY": 315.037079,
+        "rotZ": -1.42628232E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Missile",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "d66a14"
+    },
+    {
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": -1.728859,
+        "posY": 1.82426143,
+        "posZ": -3.63500452,
+        "rotX": -2.60200432E-05,
+        "rotY": 315.038757,
+        "rotZ": 180.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Missile",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "fd847e"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -11.50258,
+        "posY": 1.19932628,
+        "posZ": 0.201129928,
+        "rotX": 270.0,
+        "rotY": 12.8000088,
+        "rotZ": 0.0,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Laser Battery",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.9975527,
+        "b": 0.341325045
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "3121a0"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -11.4745007,
+        "posY": 1.19932628,
+        "posZ": 0.7848345,
+        "rotX": -3.67684083E-06,
+        "rotY": 0.2323099,
+        "rotZ": 5.064594E-05,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Laser Battery",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.9975527,
+        "b": 0.3413374
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "8ce208"
+    },
+    {
+      "Name": "PlayerPawn",
+      "Transform": {
+        "posX": 15.5199308,
+        "posY": 1.01365948,
+        "posZ": -11.6402922,
+        "rotX": -1.34977745E-06,
+        "rotY": 89.97655,
+        "rotZ": 1.536669E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.8603418,
+        "g": 0.8603418,
+        "b": 0.8603418
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 0,
+      "GUID": "cae2b2"
+    },
+    {
+      "Name": "PlayerPawn",
+      "Transform": {
+        "posX": -21.3400822,
+        "posY": 1.01365936,
+        "posZ": -1.94001257,
+        "rotX": -1.450325E-06,
+        "rotY": 89.99517,
+        "rotZ": -1.86239646E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7868342,
+        "g": 0.73258996,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 3,
+      "GUID": "d28f92"
+    },
+    {
+      "Name": "PlayerPawn",
+      "Transform": {
+        "posX": -11.6400776,
+        "posY": 1.01365948,
+        "posZ": -11.640214,
+        "rotX": -1.64472681E-06,
+        "rotY": 89.9761047,
+        "rotZ": 6.948445E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.83829,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 1,
+      "GUID": "986071"
+    },
+    {
+      "Name": "PlayerPawn",
+      "Transform": {
+        "posX": -15.5189772,
+        "posY": 1.01365936,
+        "posZ": 11.6409969,
+        "rotX": -1.21260257E-06,
+        "rotY": 89.10816,
+        "rotZ": 2.47626986E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.698622,
+        "b": 0.00481740525
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 4,
+      "GUID": "127d98"
+    },
+    {
+      "Name": "PlayerPawn",
+      "Transform": {
+        "posX": 21.9204216,
+        "posY": 1.01487613,
+        "posZ": 28.5525188,
+        "rotX": 2.36242286E-05,
+        "rotY": 165.2543,
+        "rotZ": -9.540426E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.309847116,
+        "g": 0.372592121,
+        "b": 0.99999994
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 5,
+      "GUID": "9f4097"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 31.0399914,
+        "posY": 3.63181281,
+        "posZ": 7.76000834,
+        "rotX": -0.000131920853,
+        "rotY": 269.999359,
+        "rotZ": 2.77513045E-05,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Mission steps",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7868281,
+        "g": 0.7868281,
+        "b": 0.7868281
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "https://github.com/rik-github/tts/mission.steps.board.jpg",
+        "WidthScale": 2.00642061
+      },
+      "GUID": "7116f8"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": -3.67013764,
+        "posY": 1.315195,
+        "posZ": 5.86813927,
+        "rotX": -8.463003E-06,
+        "rotY": 0.034558773,
+        "rotZ": -4.114419E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Power",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.309939623,
+        "g": 0.99999994,
+        "b": 0.3413127
+      },
+      "Grid": false,
+      "Locked": true,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 0,
+      "GUID": "ed3884"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": 36.8599129,
+        "posY": 0.826791644,
+        "posZ": -21.3387146,
+        "rotX": -1.80046E-05,
+        "rotY": 0.0871067047,
+        "rotZ": 5.27896955E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Damage",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7961424,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054214,
+            "posY": 3.20687556,
+            "posZ": -9.039989,
+            "rotX": 5.965934,
+            "rotY": 359.91748,
+            "rotZ": 356.937042,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.9962826,
+            "posY": 3.11074758,
+            "posZ": -9.817073,
+            "rotX": 354.340179,
+            "rotY": 9.089427,
+            "rotZ": 15.0471716,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7067242,
+            "posY": 3.18698144,
+            "posZ": -9.034196,
+            "rotX": 7.909284,
+            "rotY": 359.9247,
+            "rotZ": 356.440765,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7047749,
+            "posY": 3.2078917,
+            "posZ": -9.039642,
+            "rotX": 6.19483852,
+            "rotY": 359.8944,
+            "rotZ": 357.315765,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048073,
+            "posY": 3.20702863,
+            "posZ": -9.0398035,
+            "rotX": 5.954713,
+            "rotY": 359.9344,
+            "rotZ": 357.2849,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70759,
+            "posY": 3.17877483,
+            "posZ": -9.032284,
+            "rotX": 8.157628,
+            "rotY": 0.0116300164,
+            "rotZ": 356.049469,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.94718,
+            "posY": 3.17147136,
+            "posZ": -9.728251,
+            "rotX": 12.7353706,
+            "rotY": 37.59001,
+            "rotZ": 3.63877869,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70534,
+            "posY": 3.201846,
+            "posZ": -9.03852,
+            "rotX": 6.33894253,
+            "rotY": 359.950684,
+            "rotZ": 357.0385,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048664,
+            "posY": 3.20687556,
+            "posZ": -9.040061,
+            "rotX": 5.989714,
+            "rotY": 359.899475,
+            "rotZ": 357.26474,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.975832,
+            "posY": 3.10412741,
+            "posZ": -9.746209,
+            "rotX": 351.7706,
+            "rotY": 2.20377564,
+            "rotZ": 352.49884,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7071819,
+            "posY": 3.18741536,
+            "posZ": -9.035109,
+            "rotX": 7.455346,
+            "rotY": 359.968445,
+            "rotZ": 356.161652,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7000885,
+            "posY": 3.217758,
+            "posZ": -9.032811,
+            "rotX": 3.20756,
+            "rotY": 355.394653,
+            "rotZ": 355.636,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7465611,
+            "posY": 3.15833664,
+            "posZ": -9.662023,
+            "rotX": 355.5345,
+            "rotY": 0.294994056,
+            "rotZ": 351.466339,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9264717,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7051525,
+            "posY": 3.204824,
+            "posZ": -9.039556,
+            "rotX": 6.1535697,
+            "rotY": 359.90332,
+            "rotZ": 357.1234,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 24.02064,
+            "posY": 3.18893051,
+            "posZ": -9.911782,
+            "rotX": 359.638275,
+            "rotY": 15.807189,
+            "rotZ": 15.84886,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6669579,
+            "posY": 3.24274635,
+            "posZ": -9.061576,
+            "rotX": 352.873322,
+            "rotY": 341.681183,
+            "rotZ": 354.316162,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048149,
+            "posY": 3.21210766,
+            "posZ": -9.041332,
+            "rotX": 5.618532,
+            "rotY": 359.8754,
+            "rotZ": 357.245331,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054176,
+            "posY": 3.206791,
+            "posZ": -9.040011,
+            "rotX": 5.944479,
+            "rotY": 359.9193,
+            "rotZ": 356.942169,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70487,
+            "posY": 3.20752883,
+            "posZ": -9.039795,
+            "rotX": 6.122785,
+            "rotY": 359.8952,
+            "rotZ": 357.263336,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7057133,
+            "posY": 3.20186019,
+            "posZ": -9.038615,
+            "rotX": 6.37647963,
+            "rotY": 359.9362,
+            "rotZ": 356.830872,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70822,
+            "posY": 3.17884851,
+            "posZ": -9.03327,
+            "rotX": 8.251204,
+            "rotY": 359.916748,
+            "rotZ": 355.6834,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.705843,
+            "posY": 3.201715,
+            "posZ": -9.038723,
+            "rotX": 6.3636384,
+            "rotY": 359.932159,
+            "rotZ": 356.7519,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70496,
+            "posY": 3.20716,
+            "posZ": -9.039953,
+            "rotX": 6.050406,
+            "rotY": 359.8959,
+            "rotZ": 357.2129,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048912,
+            "posY": 3.20665,
+            "posZ": -9.040159,
+            "rotX": 5.945817,
+            "rotY": 359.900024,
+            "rotZ": 357.249664,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048225,
+            "posY": 3.2077117,
+            "posZ": -9.039718,
+            "rotX": 6.15899372,
+            "rotY": 359.89502,
+            "rotZ": 357.289154,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.704937,
+            "posY": 3.21200418,
+            "posZ": -9.041386,
+            "rotX": 5.60114431,
+            "rotY": 359.872925,
+            "rotZ": 357.176544,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7009239,
+            "posY": 3.20543766,
+            "posZ": -9.039752,
+            "rotX": 4.15246773,
+            "rotY": 351.469849,
+            "rotZ": 354.864868,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.709877,
+            "posY": 3.23640823,
+            "posZ": -9.041933,
+            "rotX": 355.13028,
+            "rotY": 354.6444,
+            "rotZ": 355.066864,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7050037,
+            "posY": 3.2069726,
+            "posZ": -9.040034,
+            "rotX": 6.01384354,
+            "rotY": 359.896027,
+            "rotZ": 357.188629,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7132988,
+            "posY": 3.22421384,
+            "posZ": -9.035523,
+            "rotX": 354.625763,
+            "rotY": 358.5981,
+            "rotZ": 0.276903838,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.704916,
+            "posY": 3.20734549,
+            "posZ": -9.039873,
+            "rotX": 6.086723,
+            "rotY": 359.89563,
+            "rotZ": 357.237762,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.695015,
+            "posY": 3.14537883,
+            "posZ": -8.995825,
+            "rotX": 29.9571648,
+            "rotY": 18.2679081,
+            "rotZ": 356.557617,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7048531,
+            "posY": 3.20698953,
+            "posZ": -9.040011,
+            "rotX": 6.011911,
+            "rotY": 359.898956,
+            "rotZ": 357.273224,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6892033,
+            "posY": 3.179301,
+            "posZ": -9.075152,
+            "rotX": 30.2239571,
+            "rotY": 359.76944,
+            "rotZ": 343.4158,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.9520912,
+            "posY": 3.20206928,
+            "posZ": -9.890896,
+            "rotX": 6.689148,
+            "rotY": 25.6805382,
+            "rotZ": 356.772919,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926474,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7063885,
+            "posY": 3.18890476,
+            "posZ": -9.034366,
+            "rotX": 7.711042,
+            "rotY": 359.967957,
+            "rotZ": 356.580261,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.6975918,
+            "posY": 3.17401457,
+            "posZ": -9.009364,
+            "rotX": 9.714457,
+            "rotY": 349.6681,
+            "rotZ": 355.5706,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7054939,
+            "posY": 3.20673537,
+            "posZ": -9.040205,
+            "rotX": 5.99094439,
+            "rotY": 359.8846,
+            "rotZ": 356.909668,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.70488,
+            "posY": 3.20676231,
+            "posZ": -9.04011,
+            "rotX": 5.96759,
+            "rotY": 359.89975,
+            "rotZ": 357.257,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        },
+        {
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 23.7061558,
+            "posY": 3.19549727,
+            "posZ": -9.037122,
+            "rotX": 7.00576,
+            "rotY": 359.9093,
+            "rotZ": 356.647522,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.926472843,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": false,
+          "Locked": false,
+          "GUID": ""
+        }
+      ],
+      "GUID": "8e9817"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -17.4875774,
+        "posY": 1.0636481,
+        "posZ": 0.0393874273,
+        "rotX": 3.264205E-07,
+        "rotY": 269.958374,
+        "rotZ": 180.0,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "White Damage",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713293731,
+        "g": 0.713293731,
+        "b": 0.713293731
+      },
+      "Grid": false,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        804,
+        802,
+        805,
+        803,
+        800,
+        801
+      ],
+      "CustomDeck": {
+        "8": {
+          "FaceURL": "http://i.imgur.com/Qfh5Xjw.jpg",
+          "BackURL": "http://i.imgur.com/GqFLSxu.jpg"
+        }
+      },
+      "GUID": "0b98e8"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -17.6046963,
+        "posY": 1.0636481,
+        "posZ": 3.769082,
+        "rotX": 2.26857821E-07,
+        "rotY": 179.983719,
+        "rotZ": 180.0,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Red Damage",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713293731,
+        "g": 0.713293731,
+        "b": 0.713293731
+      },
+      "Grid": false,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        901,
+        904,
+        903,
+        902,
+        900,
+        905
+      ],
+      "CustomDeck": {
+        "9": {
+          "FaceURL": "http://i.imgur.com/x62HK09.jpg",
+          "BackURL": "http://i.imgur.com/QImW38O.jpg"
+        }
+      },
+      "GUID": "c39561"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -17.4600563,
+        "posY": 1.0636481,
+        "posZ": -3.88017464,
+        "rotX": 2.01771945E-06,
+        "rotY": 179.974991,
+        "rotZ": 180.000015,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Blue Damage",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713293731,
+        "g": 0.713293731,
+        "b": 0.713293731
+      },
+      "Grid": false,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        1002,
+        1003,
+        1000,
+        1005,
+        1001,
+        1004
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "http://i.imgur.com/fp2Ku8j.jpg",
+          "BackURL": "http://i.imgur.com/AOAhrJx.jpg"
+        }
+      },
+      "GUID": "1b9394"
+    },
+    {
+      "Name": "Die_8",
+      "Transform": {
+        "posX": -9.593058,
+        "posY": 1.51986957,
+        "posZ": -0.412131518,
+        "rotX": 326.2638,
+        "rotY": 0.4087208,
+        "rotZ": 89.99995,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.564789951,
+        "g": 0.08242438,
+        "b": 0.08242438
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 0,
+      "GUID": "014458"
+    },
+    {
+      "Name": "Tablet",
+      "Transform": {
+        "posX": 31.05004,
+        "posY": 4.137721,
+        "posZ": -9.701937,
+        "rotX": -3.03049524E-06,
+        "rotY": 269.885956,
+        "rotZ": -6.307593E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": true,
+      "Tablet": {
+        "PageURL": "http://www.phipsisoftware.com/SpaceAlert.html"
+      },
+      "GUID": "f3a688"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -10.2260513,
+        "posY": 1.19932628,
+        "posZ": 1.97018063,
+        "rotX": 5.36297E-07,
+        "rotY": 0.06099133,
+        "rotZ": -5.51188969E-05,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Energy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.800020158,
+        "b": 0.0
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "65dd2f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -11.1453819,
+        "posY": 1.3868264,
+        "posZ": 2.02145481,
+        "rotX": -6.484053E-07,
+        "rotY": 330.186951,
+        "rotZ": 180.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Energy capsule",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.8000402,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=Jskr6fhS",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "1204e1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 34.9007225,
+        "posY": 4.359147,
+        "posZ": 17.1592751,
+        "rotX": -2.23807438E-05,
+        "rotY": 0.142583653,
+        "rotZ": 179.999878,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "Mission step marker",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.6000696
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=XeuULnMx",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "70daaf"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -9.649895,
+        "posY": 1.32432628,
+        "posZ": 3.43961382,
+        "rotX": -3.971546E-06,
+        "rotY": 359.560883,
+        "rotZ": 3.21125226E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Computer",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.6000348,
+        "g": 0.6000348,
+        "b": 0.6000348
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "352a9c"
+    },
+    {
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": -10.8104572,
+        "posY": 1.32432628,
+        "posZ": 3.642726,
+        "rotX": -1.4495281E-06,
+        "rotY": 359.57132,
+        "rotZ": -1.95831888E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Visual confirmation",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.6000398,
+        "g": 0.6000398,
+        "b": 0.6000398
+      },
+      "Grid": false,
+      "Locked": false,
+      "GUID": "ada2a5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 16.6980343,
+        "posY": 1.01111114,
+        "posZ": 11.61628,
+        "rotX": 5.227847E-07,
+        "rotY": 270.17868,
+        "rotZ": 3.357341E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T8",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.8.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "658830"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 17.4976482,
+        "posY": 1.0111115,
+        "posZ": 11.5439692,
+        "rotX": 3.06421981E-07,
+        "rotY": 270.0631,
+        "rotZ": 4.53068964E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T7",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.7.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "1e3563"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 18.3683128,
+        "posY": 1.01111114,
+        "posZ": 11.5191936,
+        "rotX": -1.77591355E-05,
+        "rotY": 270.036774,
+        "rotZ": -2.46189084E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T6",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.6.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "057a54"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.241497,
+        "posY": 1.01111126,
+        "posZ": 11.5064192,
+        "rotX": -1.781305E-05,
+        "rotY": 269.981232,
+        "rotZ": -2.45393E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T5",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.5.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "2760df"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 20.198576,
+        "posY": 1.01111126,
+        "posZ": 11.5256691,
+        "rotX": -1.77522052E-05,
+        "rotY": 270.008118,
+        "rotZ": -2.47154821E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.4.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "bab827"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 21.24662,
+        "posY": 1.01111126,
+        "posZ": 11.5465851,
+        "rotX": 1.88020508E-07,
+        "rotY": 270.0562,
+        "rotZ": 2.43325019E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T3",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216187,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.3.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "f41817"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.200304,
+        "posY": 1.0111115,
+        "posZ": 11.5042868,
+        "rotX": 6.74372131E-07,
+        "rotY": 270.12,
+        "rotZ": 2.4651797E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.2.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "45fd76"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 23.1224651,
+        "posY": 1.01111138,
+        "posZ": 11.4456034,
+        "rotX": 6.32878146E-05,
+        "rotY": 270.002747,
+        "rotZ": -1.153396E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216187,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.1.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "847880"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.0147781,
+        "posY": 1.01111126,
+        "posZ": 10.1973534,
+        "rotX": 5.30105638E-07,
+        "rotY": 269.937073,
+        "rotZ": 1.30381707E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T2",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.2.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "ef430b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 22.9369373,
+        "posY": 1.01111114,
+        "posZ": 10.1386671,
+        "rotX": 1.13086362E-05,
+        "rotY": 269.9401,
+        "rotZ": 4.02815749E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T1",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.1.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "ebb9c8"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 21.06111,
+        "posY": 1.0111115,
+        "posZ": 10.2396421,
+        "rotX": -2.83401951E-05,
+        "rotY": 269.950226,
+        "rotZ": 4.26401239E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T3",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921621,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.3.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "c5cb58"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 19.0559654,
+        "posY": 1.01111138,
+        "posZ": 10.1994915,
+        "rotX": -1.77831771E-05,
+        "rotY": 269.920319,
+        "rotZ": -2.438686E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T5",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.5.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "fe644e"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 20.0130463,
+        "posY": 1.01111126,
+        "posZ": 10.2187414,
+        "rotX": -1.7772647E-05,
+        "rotY": 269.9472,
+        "rotZ": -2.4384628E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T4",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.4.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "8844c0"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 18.1827831,
+        "posY": 1.01111126,
+        "posZ": 10.2122622,
+        "rotX": -1.769814E-05,
+        "rotY": 269.964783,
+        "rotZ": -2.43718951E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T6",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.6.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a3631f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 17.3121376,
+        "posY": 1.01111126,
+        "posZ": 10.2370262,
+        "rotX": -7.81026538E-05,
+        "rotY": 269.948364,
+        "rotZ": -1.57826835E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T7",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.7.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "06ccb1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 16.51252,
+        "posY": 1.01111126,
+        "posZ": 10.3093405,
+        "rotX": -3.2318203E-05,
+        "rotY": 269.927124,
+        "rotZ": 3.08040762E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "T8",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992162347,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/turn.chip.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/turn.chip.8.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "f593cf"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": 11.19251,
+        "posY": 0.8267921,
+        "posZ": -24.3854065,
+        "rotX": -5.13221437E-07,
+        "rotY": 0.0412429,
+        "rotZ": 6.90379863E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.941181,
+        "g": 0.488717973,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 0,
+      "GUID": "6cf335"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.03981769,
+        "posY": 1.02202058,
+        "posZ": -20.5698738,
+        "rotX": 9.46149958E-05,
+        "rotY": 173.783081,
+        "rotZ": -2.29442048E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.blue.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "26c7e7"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.50324249,
+        "posY": 1.02202082,
+        "posZ": -20.4825859,
+        "rotX": 4.07062435E-05,
+        "rotY": 180.103943,
+        "rotZ": -6.74423563E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.red.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "45ede6"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.479091,
+        "posY": 1.02202082,
+        "posZ": -20.71073,
+        "rotX": 2.618104E-07,
+        "rotY": 180.258,
+        "rotZ": -1.59345291E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.yellow.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "0d2b64"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.361255646,
+        "posY": 1.02202046,
+        "posZ": -20.3367672,
+        "rotX": 9.699781E-07,
+        "rotY": 180.099548,
+        "rotZ": 2.302928E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.green.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.5,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 1.0,
+        "AngularDrag": 50.0,
+        "UseGravity": true
+      },
+      "GUID": "96eeea"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 2.218157,
+        "posY": 1.02202082,
+        "posZ": -21.1484833,
+        "rotX": -2.26861575E-05,
+        "rotY": 179.739761,
+        "rotZ": 2.88116553E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut (metal)",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 1
+      },
+      "GUID": "6922e9"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.063514,
+        "posY": 1.022021,
+        "posZ": -21.33041,
+        "rotX": -4.44501575E-06,
+        "rotY": 179.975876,
+        "rotZ": 2.04616777E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut (plastic)",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      },
+      "GUID": "a4491e"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.92764115,
+        "posY": 1.02202058,
+        "posZ": -21.2799854,
+        "rotX": 2.14069814E-06,
+        "rotY": 179.770325,
+        "rotZ": -2.19224967E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "Astronaut (custom)",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.8745098,
+            "g": 0.8117647,
+            "b": 0.745098054
+          },
+          "SpecularIntensity": 0.2,
+          "SpecularSharpness": 3.5,
+          "FresnelStrength": 0.0
+        }
+      },
+      "GUID": "405120"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -3.34533453,
+        "posY": 1.02202082,
+        "posZ": -20.6577759,
+        "rotX": 6.2158E-07,
+        "rotY": 179.979538,
+        "rotZ": -9.84084E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/astronaut.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/astronaut.white.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "9ac99c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -26.078373,
+        "posY": 1.41182637,
+        "posZ": -21.416584,
+        "rotX": -4.77357653E-10,
+        "rotY": 180.048126,
+        "rotZ": 7.563615E-09,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.captain.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "cc609d"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -21.3396111,
+        "posY": 1.41182649,
+        "posZ": -21.3403111,
+        "rotX": 1.90143282E-07,
+        "rotY": 180.01326,
+        "rotZ": 2.33285746E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.Communication.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "736bea"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -17.3009243,
+        "posY": 1.41182637,
+        "posZ": -21.1696587,
+        "rotX": 6.91053174E-06,
+        "rotY": 179.973846,
+        "rotZ": -4.54154451E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.engineer.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "3b2c22"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -30.1952477,
+        "posY": 1.41182637,
+        "posZ": -21.55997,
+        "rotX": 5.49076731E-06,
+        "rotY": 180.059082,
+        "rotZ": -3.64664061E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.lieutenant.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "560c2a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -30.1471348,
+        "posY": 1.41182637,
+        "posZ": -16.5888672,
+        "rotX": 4.35391166E-06,
+        "rotY": 179.9756,
+        "rotZ": 6.773567E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.science.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "b8c7d2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -34.5596962,
+        "posY": 1.41182637,
+        "posZ": -21.4481411,
+        "rotX": 1.18053251E-07,
+        "rotY": 180.115448,
+        "rotZ": -1.02516104E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.security.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "e16d80"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -34.8498573,
+        "posY": 1.41182637,
+        "posZ": -16.93913,
+        "rotX": -3.3820335E-08,
+        "rotY": 180.01149,
+        "rotZ": -2.69297029E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992160857,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "https://github.com/rik-github/tts/badge.obj",
+        "DiffuseURL": "https://github.com/rik-github/tts/badge.tactical.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a2f567"
+    }
+  ]
+}

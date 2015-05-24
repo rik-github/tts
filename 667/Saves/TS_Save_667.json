@@ -1,0 +1,3464 @@
+{
+  "SaveName": "My Dominion with sets and tokens",
+  "GameMode": "None",
+  "Date": "5/1/2015 12:19:54 PM",
+  "Table": "Table_RPG",
+  "Sky": "Sky_Field",
+  "Note": "",
+  "Rules": "",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": true,
+    "Snapping": true,
+    "Offset": false,
+    "xSize": 2.51,
+    "ySize": 3.39
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAFFElEQVR4Ae3QgQAAAADDoPlTH+SFUGHAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgy8DQx5DAABHyNK3wAAAABJRU5ErkJggg==",
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.48943377,
+        "posY": 1.22690427,
+        "posZ": 10.1703939,
+        "rotX": 8.355226E-06,
+        "rotY": 180.424484,
+        "rotZ": -3.375331E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Copper",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435,
+        435
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "6f020d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.509478,
+        "posY": 1.01903784,
+        "posZ": -0.0551952645,
+        "rotX": 1.78932112E-07,
+        "rotY": 180.114655,
+        "rotZ": -8.976058E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Alchemy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        209,
+        207,
+        210,
+        212,
+        219,
+        214,
+        211,
+        208,
+        215,
+        216,
+        218,
+        213
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "69e17b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -12.5503731,
+        "posY": 1.03635991,
+        "posZ": 10.1182413,
+        "rotX": 2.22322456E-06,
+        "rotY": 180.099319,
+        "rotZ": -3.19174751E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Colony",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217,
+        217
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "c5c481"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -17.5705242,
+        "posY": 1.01903784,
+        "posZ": 10.1147251,
+        "rotX": -2.71050681E-06,
+        "rotY": 180.157562,
+        "rotZ": -2.5717336E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Platinum",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245,
+        245
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "a00698"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -15.0591364,
+        "posY": 1.01470745,
+        "posZ": -3.44731021,
+        "rotX": 1.625984E-07,
+        "rotY": 180.140854,
+        "rotZ": 2.53164927E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Alternate Base",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        601,
+        426,
+        434,
+        432,
+        430,
+        427,
+        429,
+        433,
+        431,
+        428,
+        425
+      ],
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_trash.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "571225"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -15.0605288,
+        "posY": 1.01903784,
+        "posZ": 10.1147261,
+        "rotX": -7.365059E-07,
+        "rotY": 180.154083,
+        "rotZ": -8.435883E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Colony",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246,
+        246
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "1903cf"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -17.5704021,
+        "posY": 1.018824,
+        "posZ": 6.72448444,
+        "rotX": 2.67599921E-06,
+        "rotY": 180.140991,
+        "rotZ": 8.011299E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Cornucopia Prizes",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.7134108,
+        "g": 0.7134108,
+        "b": 0.7134108
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        249,
+        251,
+        250,
+        248,
+        247
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "b650df"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -5.021187,
+        "posY": 1.02336836,
+        "posZ": -3.44393873,
+        "rotX": -4.066779E-08,
+        "rotY": 180.039856,
+        "rotZ": 2.058362E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Cornucopia",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133989,
+        "g": 0.7133989,
+        "b": 0.7133989
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        262,
+        260,
+        259,
+        256,
+        254,
+        261,
+        253,
+        252,
+        263,
+        255,
+        264,
+        257,
+        258
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "136114"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 5.01758337,
+        "posY": 1.09698772,
+        "posZ": 13.5438595,
+        "rotX": -2.83229838E-06,
+        "rotY": 180.078552,
+        "rotZ": -5.10074869E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Curse",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436,
+        436
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "eb062d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 0.0292103216,
+        "posY": 1.01903784,
+        "posZ": 13.7432241,
+        "rotX": -1.36899575E-06,
+        "rotY": 182.610641,
+        "rotZ": -1.37834547E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Duchy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439,
+        439
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "da5bf3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.51983142,
+        "posY": 1.07100451,
+        "posZ": 13.5854359,
+        "rotX": 2.92650861E-06,
+        "rotY": 180.721832,
+        "rotZ": 1.14151169E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Estate",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437,
+        437
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "26b544"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.50571251,
+        "posY": 1.14029324,
+        "posZ": 10.1758137,
+        "rotX": 8.62429658E-07,
+        "rotY": 180.126633,
+        "rotZ": 1.86943041E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gold",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440,
+        440
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "b9dd88"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.50874114,
+        "posY": 1.02336836,
+        "posZ": -3.44394088,
+        "rotX": 7.16518134E-09,
+        "rotY": 180.077362,
+        "rotZ": -3.560417E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Guilds",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713379562,
+        "g": 0.713379562,
+        "b": 0.713379562
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        409,
+        408,
+        415,
+        417,
+        420,
+        412,
+        414,
+        411,
+        419,
+        410,
+        418,
+        413,
+        416
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "54c2d3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.51115966,
+        "posY": 1.07966542,
+        "posZ": -3.415946,
+        "rotX": 1.65092729E-07,
+        "rotY": 180.061646,
+        "rotZ": -9.547971E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Hinterlands",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713379562,
+        "g": 0.713379562,
+        "b": 0.713379562
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        265,
+        306,
+        301,
+        302,
+        319,
+        320,
+        312,
+        316,
+        308,
+        304,
+        303,
+        307,
+        318,
+        310,
+        317,
+        266,
+        300,
+        305,
+        267,
+        313,
+        321,
+        311,
+        315,
+        268,
+        314,
+        309
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "50544b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 5.01888275,
+        "posY": 1.07533491,
+        "posZ": -0.0285261273,
+        "rotX": -9.279478E-07,
+        "rotY": 180.1009,
+        "rotZ": 2.48126821E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Prosperity",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133639,
+        "g": 0.7133639,
+        "b": 0.7133639
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        221,
+        238,
+        236,
+        237,
+        222,
+        242,
+        241,
+        227,
+        231,
+        243,
+        233,
+        228,
+        234,
+        229,
+        223,
+        226,
+        224,
+        240,
+        244,
+        232,
+        220,
+        235,
+        230,
+        225,
+        239
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "a1ab13"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 5.019566,
+        "posY": 1.02082109,
+        "posZ": -3.44558287,
+        "rotX": 2.09155587E-07,
+        "rotY": 180.119263,
+        "rotZ": -1.0152537E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Promotional Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713387251,
+        "g": 0.713387251,
+        "b": 0.713387251
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        500,
+        424,
+        422,
+        421,
+        423,
+        900
+      ],
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_stash.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/stash_back.jpg"
+        },
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "9": {
+          "FaceURL": "http://i.imgur.com/yqLgBRO.jpg",
+          "BackURL": "http://i.imgur.com/1lcQrNg.jpg"
+        }
+      },
+      "GUID": "7b5870"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.520754,
+        "posY": 1.01903784,
+        "posZ": 13.5747795,
+        "rotX": 1.86141392E-07,
+        "rotY": 180.990524,
+        "rotZ": 1.90135037E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Province",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713340461,
+        "g": 0.713340461,
+        "b": 0.713340461
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441,
+        441
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "1a9cf0"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -0.000592013239,
+        "posY": 1.14029324,
+        "posZ": 10.1692743,
+        "rotX": -4.033732E-06,
+        "rotY": 180.187973,
+        "rotZ": -2.8340487E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Silver",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713340461,
+        "g": 0.713340461,
+        "b": 0.713340461
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438,
+        438
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "09bf26"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 5.020392,
+        "posY": 1.01995623,
+        "posZ": 10.1699839,
+        "rotX": 1.72199677E-07,
+        "rotY": 180.032242,
+        "rotZ": -1.65770484E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Trash",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713340461,
+        "g": 0.713340461,
+        "b": 0.713340461
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 600,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_trash.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "9454ed"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -0.00117635122,
+        "posY": 1.10131824,
+        "posZ": -3.40496945,
+        "rotX": 3.82942858E-07,
+        "rotY": 180.141251,
+        "rotZ": 1.46832065E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Dark Ages",
+      "Description": "Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.7133562,
+        "g": 0.7133562,
+        "b": 0.7133562
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        356,
+        344,
+        337,
+        342,
+        333,
+        346,
+        401,
+        367,
+        340,
+        406,
+        343,
+        366,
+        354,
+        351,
+        368,
+        365,
+        335,
+        407,
+        334,
+        400,
+        341,
+        357,
+        355,
+        339,
+        347,
+        336,
+        353,
+        338,
+        348,
+        349,
+        359
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "dc5040"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -12.5499449,
+        "posY": 1.01037669,
+        "posZ": 3.33611536,
+        "rotX": 1.87395858E-06,
+        "rotY": 180.141891,
+        "rotZ": -1.68889494E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Dark Ages Knights",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.713371754,
+        "g": 0.713371754,
+        "b": 0.713371754
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        360,
+        403,
+        361,
+        352,
+        363,
+        362,
+        402,
+        404,
+        364,
+        405
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "4": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards4.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "4326f9"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -17.5704136,
+        "posY": 1.01882386,
+        "posZ": 3.33446431,
+        "rotX": 1.91223671E-06,
+        "rotY": 180.1106,
+        "rotZ": -6.051325E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Dark Ages Ruins",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.713371754,
+        "g": 0.713371754,
+        "b": 0.713371754
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        325,
+        322,
+        326,
+        329,
+        327
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "84d6e2"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -15.0604877,
+        "posY": 1.0194962,
+        "posZ": 3.3338325,
+        "rotX": 1.90079277E-07,
+        "rotY": 180.113876,
+        "rotZ": 3.89338265E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Dark Ages Shelters",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.71338737,
+        "g": 0.71338737,
+        "b": 0.71338737
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        330,
+        332,
+        331
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "094383"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -15.0597324,
+        "posY": 1.0150429,
+        "posZ": 6.724807,
+        "rotX": 2.08878168E-06,
+        "rotY": 180.167068,
+        "rotZ": 4.607267E-06,
+        "scaleX": 0.9375,
+        "scaleY": 0.9375,
+        "scaleZ": 0.9375
+      },
+      "Nickname": "Dark Ages Miscellaneous",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.713371754,
+        "g": 0.713371754,
+        "b": 0.713371754
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        358,
+        345,
+        350
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "3efa4b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -12.5504923,
+        "posY": 1.01949632,
+        "posZ": 6.72386456,
+        "rotX": 1.07076448E-06,
+        "rotY": 180.125946,
+        "rotZ": 3.53059886E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Dark Ages Other",
+      "Description": "Not Kingdom Cards",
+      "ColorDiffuse": {
+        "r": 0.713371754,
+        "g": 0.713371754,
+        "b": 0.713371754
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        323,
+        324,
+        328
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards3.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "d9c951"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 12.55,
+        "posY": 1.01037669,
+        "posZ": 6.77999973,
+        "rotX": -2.936823E-07,
+        "rotY": 180.027512,
+        "rotZ": -2.2583406E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base: first game",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133911,
+        "g": 0.7133911,
+        "b": 0.7133911
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        100,
+        102,
+        105,
+        104,
+        106,
+        110,
+        113,
+        112,
+        121,
+        122
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "b52d64"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0599976,
+        "posY": 1.01037669,
+        "posZ": 6.77999353,
+        "rotX": 2.1021971E-07,
+        "rotY": 180.003372,
+        "rotZ": -1.91729743E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base: big money",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133911,
+        "g": 0.7133911,
+        "b": 0.7133911
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        101,
+        103,
+        111,
+        116,
+        108,
+        107,
+        121,
+        119,
+        122,
+        124
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "04b45c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.5699978,
+        "posY": 1.01037669,
+        "posZ": 6.77999,
+        "rotX": 1.84300379E-08,
+        "rotY": 180.012665,
+        "rotZ": 2.144662E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base: interaction",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713398933,
+        "g": 0.713398933,
+        "b": 0.713398933
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        102,
+        104,
+        103,
+        107,
+        115,
+        114,
+        110,
+        120,
+        117,
+        118
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "659e85"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 20.08,
+        "posY": 1.01037669,
+        "posZ": 6.77998447,
+        "rotX": 1.22312557E-07,
+        "rotY": 180.000854,
+        "rotZ": 2.41176622E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base: size distortion",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713398933,
+        "g": 0.713398933,
+        "b": 0.713398933
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        101,
+        105,
+        106,
+        115,
+        109,
+        108,
+        119,
+        100,
+        123,
+        104
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "1b1957"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.5900249,
+        "posY": 1.01037669,
+        "posZ": 6.779997,
+        "rotX": -1.96321321E-06,
+        "rotY": 180.009125,
+        "rotZ": 4.193365E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base: village square",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134301,
+        "g": 0.7134301,
+        "b": 0.7134301
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        100,
+        104,
+        105,
+        116,
+        112,
+        113,
+        107,
+        121,
+        120,
+        118
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "804167"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 12.5500011,
+        "posY": 1.01037669,
+        "posZ": 3.39000416,
+        "rotX": -6.852805E-07,
+        "rotY": 180.038345,
+        "rotZ": -6.646124E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Intrigue: deconstruction",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133834,
+        "g": 0.7133834,
+        "b": 0.7133834
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        127,
+        132,
+        112,
+        114,
+        116,
+        115,
+        135,
+        139,
+        143,
+        144
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "1dc3b2"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0599661,
+        "posY": 1.01037669,
+        "posZ": 3.38999844,
+        "rotX": 1.19341587E-06,
+        "rotY": 180.002609,
+        "rotZ": -4.2077836E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Intrigue: hand madness",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134379,
+        "g": 0.7134379,
+        "b": 0.7134379
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        125,
+        131,
+        103,
+        107,
+        110,
+        117,
+        122,
+        144,
+        142,
+        149
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "7df31c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.5699711,
+        "posY": 1.01037669,
+        "posZ": 3.389998,
+        "rotX": 2.35893623E-07,
+        "rotY": 180.0105,
+        "rotZ": -6.947867E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Intrigue: underlings",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134457,
+        "g": 0.7134457,
+        "b": 0.7134457
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        100,
+        126,
+        131,
+        129,
+        134,
+        142,
+        123,
+        118,
+        120,
+        149
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "59dccc"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 12.5501013,
+        "posY": 1.01037669,
+        "posZ": -0.000141225537,
+        "rotX": 3.17180948E-08,
+        "rotY": 180.023041,
+        "rotZ": 3.14229419E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Intrigue: victory dance",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713398933,
+        "g": 0.713398933,
+        "b": 0.713398933
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        126,
+        129,
+        128,
+        138,
+        135,
+        140,
+        141,
+        147,
+        148,
+        149
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "93a525"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.5700722,
+        "posY": 1.01037669,
+        "posZ": -0.000149090512,
+        "rotX": 3.923651E-07,
+        "rotY": 179.995468,
+        "rotZ": -6.698557E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Intrigue: best wishes",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134457,
+        "g": 0.7134457,
+        "b": 0.7134457
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        125,
+        131,
+        133,
+        129,
+        130,
+        137,
+        140,
+        147,
+        144,
+        145
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "fc31d2"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0600739,
+        "posY": 1.01037669,
+        "posZ": -0.000147233353,
+        "rotX": -3.63961021E-07,
+        "rotY": 180.020477,
+        "rotZ": -1.00902668E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Intrigue: secret schemes",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134301,
+        "g": 0.7134301,
+        "b": 0.7134301
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        126,
+        130,
+        131,
+        132,
+        138,
+        136,
+        145,
+        143,
+        146,
+        148
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "27d253"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -5.01999044,
+        "posY": 1.07533491,
+        "posZ": 9.671184E-07,
+        "rotX": -2.48284E-07,
+        "rotY": 179.992432,
+        "rotZ": 3.553087E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713441849,
+        "g": 0.713441849,
+        "b": 0.713441849
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        106,
+        105,
+        123,
+        104,
+        116,
+        115,
+        114,
+        113,
+        112,
+        111,
+        102,
+        122,
+        110,
+        121,
+        120,
+        119,
+        109,
+        118,
+        108,
+        117,
+        101,
+        103,
+        100,
+        107,
+        124
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "cafa28"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.50999641,
+        "posY": 1.07533491,
+        "posZ": 1.85274655E-06,
+        "rotX": -1.875234E-07,
+        "rotY": 179.975632,
+        "rotZ": -4.98634982E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Intrigue",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713434041,
+        "g": 0.713434041,
+        "b": 0.713434041
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        133,
+        147,
+        146,
+        145,
+        144,
+        131,
+        132,
+        130,
+        143,
+        140,
+        127,
+        126,
+        142,
+        139,
+        129,
+        149,
+        138,
+        148,
+        128,
+        141,
+        125,
+        137,
+        136,
+        135,
+        134
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "0dbd16"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -0.0004261767,
+        "posY": 1.07966542,
+        "posZ": -0.000117680109,
+        "rotX": -1.70962551E-08,
+        "rotY": 180.006622,
+        "rotZ": 1.42844343E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Seaside",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713379443,
+        "g": 0.713379443,
+        "b": 0.713379443
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        206,
+        159,
+        205,
+        167,
+        204,
+        158,
+        166,
+        165,
+        164,
+        154,
+        203,
+        163,
+        153,
+        202,
+        157,
+        152,
+        162,
+        151,
+        201,
+        156,
+        200,
+        150,
+        161,
+        160,
+        168,
+        155
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "efda1e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 12.5501013,
+        "posY": 1.01037669,
+        "posZ": -3.390133,
+        "rotX": -6.49030554E-08,
+        "rotY": 180.0435,
+        "rotZ": 1.84345049E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Seaside: high seas",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133834,
+        "g": 0.7133834,
+        "b": 0.7133834
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        158,
+        157,
+        150,
+        151,
+        164,
+        162,
+        160,
+        206,
+        168,
+        200
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "21301c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0600967,
+        "posY": 1.01037681,
+        "posZ": -3.3901422,
+        "rotX": 3.27586548E-07,
+        "rotY": 180.02626,
+        "rotZ": 1.90433684E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Seaside: buried treasure",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713398933,
+        "g": 0.713398933,
+        "b": 0.713398933
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        154,
+        152,
+        159,
+        156,
+        155,
+        167,
+        161,
+        206,
+        204,
+        203
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "9a1818"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.5700932,
+        "posY": 1.01037657,
+        "posZ": -3.39014244,
+        "rotX": 1.2004283E-06,
+        "rotY": 180.031143,
+        "rotZ": -8.277528E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Seaside: shipwrecks",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133911,
+        "g": 0.7133911,
+        "b": 0.7133911
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        153,
+        154,
+        159,
+        158,
+        166,
+        165,
+        163,
+        205,
+        202,
+        201
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "88dc92"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 20.0801,
+        "posY": 1.01037657,
+        "posZ": 3.38985729,
+        "rotX": -7.194229E-07,
+        "rotY": 180.0336,
+        "rotZ": -8.32831E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Seaside: reach for tomorrow",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713453531,
+        "g": 0.713453531,
+        "b": 0.713453531
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        100,
+        104,
+        157,
+        114,
+        166,
+        167,
+        161,
+        117,
+        201,
+        124
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "8b2ba9"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.5901031,
+        "posY": 1.01037681,
+        "posZ": 3.38985848,
+        "rotX": 1.99083289E-07,
+        "rotY": 179.983643,
+        "rotZ": 3.44246445E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Seaside: repetition",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133911,
+        "g": 0.7133911,
+        "b": 0.7133911
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        154,
+        106,
+        103,
+        110,
+        164,
+        160,
+        205,
+        203,
+        118,
+        200
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        },
+        "2": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards2.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "d6e79b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 25.1000957,
+        "posY": 1.01037681,
+        "posZ": 3.38985753,
+        "rotX": 2.19831065E-07,
+        "rotY": 180.049408,
+        "rotZ": 5.583397E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "+Seaside: give and take",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133911,
+        "g": 0.7133911,
+        "b": 0.7133911
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        151,
+        156,
+        158,
+        155,
+        165,
+        111,
+        162,
+        123,
+        121,
+        120
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/cards1.jpg",
+          "BackURL": "https://googledrive.com/host/0B5tpZ_GxRg4IbGtmYnBOeUtyakU/card_back.jpg"
+        }
+      },
+      "GUID": "658323"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": -20.0801754,
+        "posY": 0.763208151,
+        "posZ": 10.1707067,
+        "rotX": 1.153113E-05,
+        "rotY": 0.05960239,
+        "rotZ": -3.64200823E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Embargo tokens",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9411774,
+        "g": 0.488695085,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415379,
+            "posZ": -10.168169,
+            "rotX": 0.5732611,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "5e6c6e"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.194154,
+            "posZ": -10.168169,
+            "rotX": 0.5732623,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "d56f8d"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.194154,
+            "posZ": -10.168169,
+            "rotX": 0.573263,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "c9a648"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415426,
+            "posZ": -10.168169,
+            "rotX": 0.573264658,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "796972"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.1941545,
+            "posZ": -10.168169,
+            "rotX": 0.573265851,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "3e26cf"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.194155,
+            "posZ": -10.168169,
+            "rotX": 0.573268235,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "69d487"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415545,
+            "posZ": -10.168169,
+            "rotX": 0.57327193,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "408422"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415569,
+            "posZ": -10.168169,
+            "rotX": 0.5732731,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "825080"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415569,
+            "posZ": -10.168169,
+            "rotX": 0.573273838,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "ae9617"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.194156,
+            "posZ": -10.168169,
+            "rotX": 0.573275566,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "2346c7"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415617,
+            "posZ": -10.168169,
+            "rotX": 0.5732767,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "f5f094"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415641,
+            "posZ": -10.168169,
+            "rotX": 0.57327795,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "551454"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415665,
+            "posZ": -10.168169,
+            "rotX": 0.573279142,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "eb269a"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.194157,
+            "posZ": -10.168169,
+            "rotX": 0.5732815,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "947ec0"
+        },
+        {
+          "Name": "go_game_piece_black",
+          "Transform": {
+            "posX": -10.0399847,
+            "posY": 3.19415736,
+            "posZ": -10.168169,
+            "rotX": 0.573284,
+            "rotY": 359.8863,
+            "rotZ": 359.994019,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Embargo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          },
+          "Grid": true,
+          "Locked": false,
+          "GUID": "619ebc"
+        }
+      ],
+      "GUID": "b691d1"
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": -20.0798244,
+        "posY": 0.763208151,
+        "posZ": 6.77929831,
+        "rotX": -7.046314E-06,
+        "rotY": 180.035156,
+        "rotZ": 8.742974E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Coins",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9411774,
+        "g": 0.488695085,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509988,
+            "posY": 3.112387,
+            "posZ": -10.1716137,
+            "rotX": 0.006971809,
+            "rotY": 90.0032959,
+            "rotZ": 179.07579,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "d1d471"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509988,
+            "posY": 3.11240125,
+            "posZ": -10.1716118,
+            "rotX": 0.00696834037,
+            "rotY": 90.0033,
+            "rotZ": 179.076233,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "d0f94d"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.1149776,
+            "posZ": -10.1714659,
+            "rotX": 0.006332599,
+            "rotY": 90.0032959,
+            "rotZ": 179.160141,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "14718f"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.115174,
+            "posZ": -10.1714554,
+            "rotX": 0.006284281,
+            "rotY": 90.0033,
+            "rotZ": 179.166534,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "35ddf0"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.11515832,
+            "posZ": -10.1714554,
+            "rotX": 0.006224117,
+            "rotY": 90.0033,
+            "rotZ": 179.166031,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "2170e6"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.5099895,
+            "posY": 3.11609268,
+            "posZ": -10.171402,
+            "rotX": 0.00605741749,
+            "rotY": 90.0033,
+            "rotZ": 179.196457,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "a2adad"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509988,
+            "posY": 3.11274338,
+            "posZ": -10.1715927,
+            "rotX": 0.006883817,
+            "rotY": 90.0032959,
+            "rotZ": 179.0874,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "015b54"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.11463118,
+            "posZ": -10.1714859,
+            "rotX": 0.006418057,
+            "rotY": 90.0033,
+            "rotZ": 179.148865,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "29ad66"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.11531663,
+            "posZ": -10.1714458,
+            "rotX": 0.00624892954,
+            "rotY": 90.00331,
+            "rotZ": 179.171188,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "2e170d"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998855,
+            "posY": 3.113652,
+            "posZ": -10.1715412,
+            "rotX": 0.00665967446,
+            "rotY": 90.0033,
+            "rotZ": 179.116974,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "6d5835"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509989,
+            "posY": 3.11499882,
+            "posZ": -10.1714649,
+            "rotX": 0.00632731663,
+            "rotY": 90.00331,
+            "rotZ": 179.160843,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "2f6067"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509988,
+            "posY": 3.11307478,
+            "posZ": -10.1715736,
+            "rotX": 0.006802148,
+            "rotY": 90.0033,
+            "rotZ": 179.098175,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "f4edd6"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998855,
+            "posY": 3.11342764,
+            "posZ": -10.1715546,
+            "rotX": 0.00671511656,
+            "rotY": 90.0032959,
+            "rotZ": 179.109665,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "d9e601"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50999,
+            "posY": 3.117136,
+            "posZ": -10.1713428,
+            "rotX": 0.0057410677,
+            "rotY": 90.00332,
+            "rotZ": 179.230423,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "7422c5"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50999,
+            "posY": 3.117332,
+            "posZ": -10.1713314,
+            "rotX": 0.00575165963,
+            "rotY": 90.00332,
+            "rotZ": 179.236816,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "dba74a"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998187,
+            "posY": 3.09879041,
+            "posZ": -10.1724281,
+            "rotX": 0.0105096335,
+            "rotY": 90.00323,
+            "rotZ": 178.608841,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "a5bf39"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509982,
+            "posY": 3.09949327,
+            "posZ": -10.1723881,
+            "rotX": 0.010336264,
+            "rotY": 90.00323,
+            "rotZ": 178.631729,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "9927c6"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998235,
+            "posY": 3.09977269,
+            "posZ": -10.1723728,
+            "rotX": 0.0102671618,
+            "rotY": 90.0032349,
+            "rotZ": 178.640823,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "cf40c3"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.5099895,
+            "posY": 3.116403,
+            "posZ": -10.1713848,
+            "rotX": 0.00598089769,
+            "rotY": 90.00332,
+            "rotZ": 179.206573,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "c63555"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50999,
+            "posY": 3.11744452,
+            "posZ": -10.1713257,
+            "rotX": 0.00572385872,
+            "rotY": 90.00331,
+            "rotZ": 179.2405,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "e66869"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998235,
+            "posY": 3.100402,
+            "posZ": -10.1723366,
+            "rotX": 0.0101118814,
+            "rotY": 90.00323,
+            "rotZ": 178.661316,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "c199be"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998235,
+            "posY": 3.10004425,
+            "posZ": -10.1723576,
+            "rotX": 0.0102003,
+            "rotY": 90.00323,
+            "rotZ": 178.649658,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "42dbcb"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998235,
+            "posY": 3.09936762,
+            "posZ": -10.1723957,
+            "rotX": 0.0103144925,
+            "rotY": 90.00323,
+            "rotZ": 178.627625,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "853be9"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.50998235,
+            "posY": 3.10046244,
+            "posZ": -10.1723328,
+            "rotX": 0.0100970473,
+            "rotY": 90.00323,
+            "rotZ": 178.663269,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "4314dc"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -2.509988,
+            "posY": 3.11241937,
+            "posZ": -10.1716156,
+            "rotX": 0.00687165046,
+            "rotY": 89.99991,
+            "rotZ": 179.076447,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Coin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9999999,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://pastebin.com/raw.php?i=duw0CPpJ",
+            "DiffuseURL": "http://i.imgur.com/eCSRt06.png",
+            "NormalURL": "http://i.imgur.com/7aAMqas.png",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 2,
+            "TypeIndex": 5
+          },
+          "GUID": "3a10cb"
+        }
+      ],
+      "GUID": "9e0d5e"
+    }
+  ]
+}

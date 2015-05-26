@@ -1620,7 +1620,7 @@
       "Locked": false,
       "CustomMesh": {
         "MeshURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Models/badge.obj",
-        "DiffuseURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Images/badge.Communication.jpg",
+        "DiffuseURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Images/badge.communication.jpg",
         "NormalURL": "",
         "ColliderURL": "",
         "Convex": true,
@@ -1653,7 +1653,7 @@
       "Locked": false,
       "CustomMesh": {
         "MeshURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Models/badge.obj",
-        "DiffuseURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Images/badge.engineer.jpg",
+        "DiffuseURL": "https://raw.githubusercontent.com/rik-github/tts/master/662.665/Mods/Images/badge.engineering.jpg",
         "NormalURL": "",
         "ColliderURL": "",
         "Convex": true,

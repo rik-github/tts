@@ -1996,7 +1996,7 @@
       "Grid": true,
       "Locked": false,
       "CardID": 748,
-      "SidewaysCard": true,
+      "SidewaysCard": false,
       "CustomDeck": {
         "7": {
           "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
@@ -2028,7 +2028,7 @@
       "Grid": true,
       "Locked": false,
       "CardID": 747,
-      "SidewaysCard": true,
+      "SidewaysCard": false,
       "CustomDeck": {
         "7": {
           "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
@@ -2060,7 +2060,7 @@
       "Grid": true,
       "Locked": false,
       "CardID": 746,
-      "SidewaysCard": true,
+      "SidewaysCard": false,
       "CustomDeck": {
         "7": {
           "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
@@ -2092,7 +2092,7 @@
       "Grid": true,
       "Locked": false,
       "CardID": 745,
-      "SidewaysCard": true,
+      "SidewaysCard": false,
       "CustomDeck": {
         "7": {
           "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",

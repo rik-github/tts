@@ -41,8 +41,8 @@
       "Grid": true,
       "Locked": true,
       "CustomImage": {
-        "ImageURL": "http://i.imgur.com/zzNZjJq.jpg",
-        "WidthScale": 2.07673264
+        "ImageURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/board.jpg",
+        "WidthScale": 1
       },
       "GUID": "a11310"
     },
@@ -87,7 +87,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -130,7 +130,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -167,7 +167,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -205,7 +205,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -248,7 +248,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -286,7 +286,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -355,11 +355,11 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         },
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -406,7 +406,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -451,7 +451,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -496,7 +496,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -541,7 +541,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -586,7 +586,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -631,7 +631,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -678,7 +678,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -725,11 +725,11 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         },
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -776,7 +776,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -833,7 +833,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -906,7 +906,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -953,7 +953,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1000,7 +1000,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1047,7 +1047,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1094,11 +1094,11 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         },
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1145,7 +1145,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1192,7 +1192,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1239,7 +1239,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1286,7 +1286,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1333,7 +1333,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1380,7 +1380,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1427,7 +1427,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1470,7 +1470,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1513,7 +1513,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1558,7 +1558,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1601,7 +1601,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1646,7 +1646,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1689,7 +1689,7 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.1.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1736,7 +1736,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1783,7 +1783,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1830,7 +1830,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1877,7 +1877,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1922,7 +1922,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1967,7 +1967,7 @@
       ],
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -1996,10 +1996,10 @@
       "Grid": true,
       "Locked": false,
       "CardID": 748,
-      "SidewaysCard": false,
+      "SidewaysCard": true,
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2028,10 +2028,10 @@
       "Grid": true,
       "Locked": false,
       "CardID": 747,
-      "SidewaysCard": false,
+      "SidewaysCard": true,
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2060,10 +2060,10 @@
       "Grid": true,
       "Locked": false,
       "CardID": 746,
-      "SidewaysCard": false,
+      "SidewaysCard": true,
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2092,10 +2092,10 @@
       "Grid": true,
       "Locked": false,
       "CardID": 745,
-      "SidewaysCard": false,
+      "SidewaysCard": true,
       "CustomDeck": {
         "7": {
-          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.2.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2142,7 +2142,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.3.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2185,7 +2185,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },
@@ -2228,7 +2228,7 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/rik-github/tts/master/661/Mods/Images/cards.4.jpg",
           "BackURL": "http://i.imgur.com/WKIvU67.jpg"
         }
       },

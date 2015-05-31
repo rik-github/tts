@@ -1,0 +1,2238 @@
+{
+  "SaveName": "My Legendary: encounters",
+  "GameMode": "Custom",
+  "Date": "5/30/2015 12:18:55 PM",
+  "Table": "Table_Custom",
+  "TableURL": "http://i.imgur.com/h0IMSFi.jpg",
+  "Sky": "Sky_Tunnel",
+  "Note": "Rulebook: http://boardgamegeek.com/filepage/104744/legendary-enccounters-rulebook\n\nFAQ:\nhttp://boardgamegeek.com/filepage/107422/legendary-encounters-faq",
+  "Rules": "Coordinate:\nYou may 'lend' this card to another player on their turn. To do so, set this card aside and draw a card. Until the end of the turn the active player may choose to gain the benifits of this card. Then, at the end of the turn, discard this card.\n\nVigilant:\nAt the end of your turn, do not discard this card. Instead, leave it in play in front of you.\n\nMobilize:\nWhen you buy this card, preform this cards Mobilize effect immediately.\n\nSacrifice:\nYou may kill this card to gain its Sacrifice effect.",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Snapping": false,
+    "Offset": false,
+    "xSize": 3.49,
+    "ySize": 3.49
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAFFElEQVR4Ae3QgQAAAADDoPlTH+SFUGHAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgy8DQx5DAABHyNK3wAAAABJRU5ErkJggg==",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 31.0720329,
+        "posY": 1.07164931,
+        "posZ": 0.4868083,
+        "rotX": 0.002204871,
+        "rotY": 270.026184,
+        "rotZ": 0.0005615687,
+        "scaleX": 0.875,
+        "scaleY": 0.875,
+        "scaleZ": 0.875
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.786813,
+        "g": 0.786813,
+        "b": 0.786813
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/zzNZjJq.jpg",
+        "WidthScale": 2.07673264
+      },
+      "GUID": "a11310"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 34.2625427,
+        "posY": 1.99712646,
+        "posZ": -10.990159,
+        "rotX": 0.00219337083,
+        "rotY": 269.973572,
+        "rotZ": 0.000550641969,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Hatchery",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713305354,
+        "g": 0.713305354,
+        "b": 0.713305354
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        344,
+        344,
+        344,
+        344,
+        344,
+        339,
+        339,
+        339,
+        339,
+        339,
+        339,
+        339,
+        339,
+        339
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "9ade99"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.9904766,
+        "posY": 1.99319577,
+        "posZ": 15.1900892,
+        "rotX": 0.00219282671,
+        "rotY": 269.977264,
+        "rotZ": 180.000565,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Sergeants",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132976,
+        "g": 0.7132976,
+        "b": 0.7132976
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        337,
+        341,
+        337,
+        338,
+        340,
+        340,
+        338,
+        341,
+        336,
+        336
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "2b0db3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 38.6223831,
+        "posY": 1.9850589,
+        "posZ": -22.1815338,
+        "rotX": 0.00219028024,
+        "rotY": 269.997559,
+        "rotZ": 0.0005508326,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Alien Avatars",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        127,
+        126,
+        125,
+        107
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "84d6c7"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -18.9631557,
+        "posY": 1.100053,
+        "posZ": -0.0194879752,
+        "rotX": 2.41108773E-06,
+        "rotY": 270.016846,
+        "rotZ": -1.27624514E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        122,
+        124,
+        123,
+        121,
+        120
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "b60041"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -19.3254948,
+        "posY": 1.08949363,
+        "posZ": 3.672065,
+        "rotX": 2.602527E-06,
+        "rotY": 270.016541,
+        "rotZ": -1.05671438E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        116,
+        117,
+        118,
+        119,
+        115,
+        114,
+        113,
+        112,
+        111,
+        110
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "97dcbb"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -18.8028755,
+        "posY": 1.100053,
+        "posZ": -4.86991835,
+        "rotX": 1.23630841E-07,
+        "rotY": 270.009918,
+        "rotZ": -3.676732E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        109,
+        109,
+        109,
+        109,
+        109
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "5410f1"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 34.13405,
+        "posY": 2.11610818,
+        "posZ": -22.1078682,
+        "rotX": 0.002199866,
+        "rotY": 269.9999,
+        "rotZ": 0.000550429,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Alien Deck",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        367,
+        219,
+        218,
+        220,
+        361,
+        224,
+        223,
+        364,
+        208,
+        366,
+        225,
+        211,
+        362,
+        368,
+        221,
+        363,
+        358,
+        365,
+        360,
+        357,
+        222,
+        217,
+        209,
+        207,
+        213,
+        212,
+        214,
+        216,
+        202,
+        203,
+        204,
+        205,
+        206,
+        201,
+        210,
+        215
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        },
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "4ecdfd"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.2568588,
+        "posY": 1.11114657,
+        "posZ": 1.55530369,
+        "rotX": 2.93131961E-07,
+        "rotY": 270.040558,
+        "rotZ": 3.69190417E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133326,
+        "g": 0.7133326,
+        "b": 0.7133326
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        151,
+        151,
+        151,
+        151,
+        151,
+        152,
+        152,
+        152,
+        152,
+        152,
+        153,
+        154,
+        154,
+        154
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "43059a"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -24.2647362,
+        "posY": 1.10032022,
+        "posZ": 12.28983,
+        "rotX": 9.551771E-07,
+        "rotY": 270.037262,
+        "rotZ": 1.8394511E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133172,
+        "g": 0.7133172,
+        "b": 0.7133172
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        324,
+        324,
+        324,
+        324,
+        324
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "964ba3"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -24.0313683,
+        "posY": 1.10032022,
+        "posZ": 8.474137,
+        "rotX": -4.06606745E-07,
+        "rotY": 270.0127,
+        "rotZ": -1.0532856E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713325,
+        "g": 0.713325,
+        "b": 0.713325
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        324,
+        324,
+        324,
+        324,
+        324
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "a3b48e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -24.3697662,
+        "posY": 1.1003201,
+        "posZ": 3.90276957,
+        "rotX": 4.99923658E-07,
+        "rotY": 269.996765,
+        "rotZ": 6.596383E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713325,
+        "g": 0.713325,
+        "b": 0.713325
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        324,
+        324,
+        324,
+        324,
+        324
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "167bfc"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -24.41729,
+        "posY": 1.10032022,
+        "posZ": -4.30398655,
+        "rotX": 9.309088E-09,
+        "rotY": 269.994141,
+        "rotZ": 4.87986824E-08,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713325,
+        "g": 0.713325,
+        "b": 0.713325
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        324,
+        324,
+        324,
+        324,
+        324
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "a17f74"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -24.5099487,
+        "posY": 1.10032034,
+        "posZ": 0.212432325,
+        "rotX": -2.45999377E-06,
+        "rotY": 269.9692,
+        "rotZ": 2.07747485E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713325,
+        "g": 0.713325,
+        "b": 0.713325
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        333,
+        324,
+        324,
+        324,
+        324,
+        324
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "5f9ad8"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.2372875,
+        "posY": 1.11114657,
+        "posZ": -4.97808743,
+        "rotX": -1.66268862E-07,
+        "rotY": 270.032959,
+        "rotZ": -1.09338612E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        146,
+        142,
+        142,
+        142,
+        140,
+        140,
+        140,
+        140,
+        140,
+        141,
+        141,
+        141,
+        141,
+        141
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "bb4055"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.3422995,
+        "posY": 1.11114645,
+        "posZ": -8.239816,
+        "rotX": 5.35186359E-07,
+        "rotY": 270.037231,
+        "rotZ": 7.91717241E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713383436,
+        "g": 0.713383436,
+        "b": 0.713383436
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        149,
+        148,
+        148,
+        148,
+        148,
+        148,
+        150,
+        150,
+        150,
+        744,
+        744,
+        744,
+        744,
+        744
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        },
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "acdccb"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.3408728,
+        "posY": 1.11114669,
+        "posZ": -1.65429378,
+        "rotX": -3.05894719E-06,
+        "rotY": 270.018433,
+        "rotZ": 9.4078E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        147,
+        143,
+        143,
+        143,
+        145,
+        145,
+        145,
+        145,
+        145,
+        144,
+        144,
+        144,
+        144,
+        144
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "2eac8d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 6.516301,
+        "posY": 1.16527843,
+        "posZ": 21.6796646,
+        "rotX": -8.5973E-07,
+        "rotY": 270.020782,
+        "rotZ": 3.84654E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Drone Deck",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        233,
+        229,
+        230,
+        226,
+        227,
+        226,
+        233,
+        234,
+        228,
+        231,
+        234,
+        231,
+        229,
+        231,
+        232,
+        227,
+        228,
+        230,
+        227,
+        234,
+        229,
+        226,
+        230,
+        228
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "aee21c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 28.88848,
+        "posY": 2.193068,
+        "posZ": -7.34802341,
+        "rotX": 0.00218692841,
+        "rotY": 270.02298,
+        "rotZ": 180.000565,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "Strikes",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        356,
+        354,
+        354,
+        346,
+        348,
+        353,
+        348,
+        353,
+        345,
+        342,
+        354,
+        353,
+        350,
+        359,
+        356,
+        348,
+        347,
+        348,
+        355,
+        354,
+        345,
+        354,
+        350,
+        348,
+        343,
+        354,
+        346,
+        345,
+        343,
+        352,
+        354,
+        343,
+        345,
+        350,
+        351,
+        343,
+        354,
+        348,
+        345,
+        349
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "91676a"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.829872,
+        "posY": 1.11114645,
+        "posZ": -5.28478336,
+        "rotX": -5.038411E-07,
+        "rotY": 270.0391,
+        "rotZ": 2.28010776E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        164,
+        163,
+        163,
+        163,
+        168,
+        168,
+        168,
+        168,
+        168,
+        165,
+        165,
+        165,
+        165,
+        165
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "a8f8cb"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.757819,
+        "posY": 1.11114645,
+        "posZ": -8.568327,
+        "rotX": -5.70286431E-07,
+        "rotY": 270.0413,
+        "rotZ": -9.390512E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        156,
+        155,
+        155,
+        155,
+        158,
+        158,
+        158,
+        158,
+        158,
+        157,
+        157,
+        157,
+        157,
+        157
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "106652"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.624242,
+        "posY": 1.11114645,
+        "posZ": -1.90325832,
+        "rotX": -1.24109386E-06,
+        "rotY": 270.002258,
+        "rotZ": 1.25317979E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133366,
+        "g": 0.7133366,
+        "b": 0.7133366
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        159,
+        160,
+        160,
+        160,
+        161,
+        161,
+        161,
+        161,
+        161,
+        162,
+        162,
+        162,
+        162,
+        162
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "53a295"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.680754,
+        "posY": 1.11114645,
+        "posZ": 1.51912034,
+        "rotX": 1.83695647E-07,
+        "rotY": 270.023621,
+        "rotZ": 5.84591664E-09,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        166,
+        167,
+        167,
+        167,
+        300,
+        300,
+        300,
+        300,
+        300,
+        301,
+        301,
+        301,
+        301,
+        301
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        },
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "e3e63e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.88135624,
+        "posY": 1.11114669,
+        "posZ": 1.21147835,
+        "rotX": -6.754353E-09,
+        "rotY": 270.4126,
+        "rotZ": 3.71997572E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        311,
+        310,
+        310,
+        310,
+        312,
+        312,
+        312,
+        312,
+        312,
+        315,
+        315,
+        315,
+        315,
+        315
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "c61a22"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.54770231,
+        "posY": 1.11114645,
+        "posZ": -5.626333,
+        "rotX": 3.857048E-07,
+        "rotY": 269.991638,
+        "rotZ": -4.54510285E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133172,
+        "g": 0.7133172,
+        "b": 0.7133172
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        305,
+        306,
+        306,
+        306,
+        308,
+        308,
+        308,
+        308,
+        308,
+        309,
+        309,
+        309,
+        309,
+        309
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "443d45"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.437801,
+        "posY": 1.11114645,
+        "posZ": -2.10050464,
+        "rotX": 2.1209631E-07,
+        "rotY": 269.9878,
+        "rotZ": -3.77723069E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133366,
+        "g": 0.7133366,
+        "b": 0.7133366
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        303,
+        302,
+        302,
+        302,
+        304,
+        304,
+        304,
+        304,
+        304,
+        307,
+        307,
+        307,
+        307,
+        307
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "d5199f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.439446,
+        "posY": 1.11114621,
+        "posZ": 1.04593253,
+        "rotX": 8.741108E-07,
+        "rotY": 270.032227,
+        "rotZ": -3.48202434E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        327,
+        328,
+        328,
+        328,
+        329,
+        329,
+        329,
+        329,
+        329,
+        332,
+        332,
+        332,
+        332,
+        332
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "7d384e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.45303655,
+        "posY": 1.11114645,
+        "posZ": -2.605721,
+        "rotX": 1.02655031E-06,
+        "rotY": 270.048737,
+        "rotZ": -1.79394988E-08,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133172,
+        "g": 0.7133172,
+        "b": 0.7133172
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        321,
+        321,
+        321,
+        322,
+        325,
+        325,
+        325,
+        325,
+        325,
+        326,
+        326,
+        326,
+        326,
+        326
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "1dd0a2"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.43254185,
+        "posY": 1.11114645,
+        "posZ": -6.07254744,
+        "rotX": 1.18201467E-06,
+        "rotY": 270.049,
+        "rotZ": 3.59135555E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        318,
+        319,
+        319,
+        319,
+        320,
+        320,
+        320,
+        320,
+        320,
+        323,
+        323,
+        323,
+        323,
+        323
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "848946"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.55012369,
+        "posY": 1.11114645,
+        "posZ": -9.560558,
+        "rotX": -5.060804E-07,
+        "rotY": 270.048828,
+        "rotZ": 3.265094E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        331,
+        330,
+        330,
+        330,
+        334,
+        334,
+        334,
+        334,
+        334,
+        335,
+        335,
+        335,
+        335,
+        335
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "6b120f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.227849,
+        "posY": 1.08949387,
+        "posZ": 11.396349,
+        "rotX": 2.154134E-06,
+        "rotY": 269.972961,
+        "rotZ": -2.70788246E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        237,
+        237,
+        237,
+        237,
+        238,
+        238,
+        239,
+        236,
+        236,
+        235
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "cd75db"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.818573,
+        "posY": 1.089494,
+        "posZ": 11.26037,
+        "rotX": -1.24337191E-07,
+        "rotY": 269.978,
+        "rotZ": 2.557244E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133326,
+        "g": 0.7133326,
+        "b": 0.7133326
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        242,
+        243,
+        242,
+        242,
+        241,
+        241,
+        244,
+        241,
+        244,
+        240
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "27f05f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.640475,
+        "posY": 1.1003201,
+        "posZ": 8.070216,
+        "rotX": 1.483772E-06,
+        "rotY": 270.046936,
+        "rotZ": -4.778454E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133288,
+        "g": 0.7133288,
+        "b": 0.7133288
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        264,
+        267,
+        267,
+        266,
+        268,
+        268,
+        265,
+        265,
+        263,
+        263,
+        263,
+        262
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "dd5e01"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.83109951,
+        "posY": 1.089494,
+        "posZ": 11.293232,
+        "rotX": -3.39194855E-07,
+        "rotY": 270.0186,
+        "rotZ": -1.68638778E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133211,
+        "g": 0.7133211,
+        "b": 0.7133211
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        246,
+        246,
+        246,
+        246,
+        247,
+        248,
+        248,
+        249,
+        249,
+        245
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "27ff5f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0056486,
+        "posY": 1.1003201,
+        "posZ": 8.207095,
+        "rotX": 2.18923651E-06,
+        "rotY": 269.9955,
+        "rotZ": -1.66025586E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        258,
+        260,
+        260,
+        261,
+        259,
+        256,
+        257,
+        256,
+        257,
+        256,
+        257,
+        255
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "376a75"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.656913,
+        "posY": 1.089494,
+        "posZ": 11.3030071,
+        "rotX": 2.28109386E-07,
+        "rotY": 270.046082,
+        "rotZ": 2.6966577E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133133,
+        "g": 0.7133133,
+        "b": 0.7133133
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        254,
+        253,
+        253,
+        251,
+        251,
+        251,
+        252,
+        252,
+        252,
+        250
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/97CFm8P.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "f73266"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.51527452,
+        "posY": 1.11114645,
+        "posZ": 4.7535944,
+        "rotX": -7.528592E-08,
+        "rotY": 269.9547,
+        "rotZ": -1.14486033E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132704,
+        "g": 0.7132704,
+        "b": 0.7132704
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        741,
+        743,
+        741,
+        741,
+        742,
+        742,
+        742,
+        740,
+        739,
+        738,
+        737,
+        737,
+        736,
+        735
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "ae9b6b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.8500793,
+        "posY": 1.11114645,
+        "posZ": 4.73742151,
+        "rotX": 2.08675516E-07,
+        "rotY": 269.954834,
+        "rotZ": 4.87971249E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713266432,
+        "g": 0.713266432,
+        "b": 0.713266432
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        734,
+        733,
+        732,
+        732,
+        730,
+        731,
+        729,
+        729,
+        729,
+        728,
+        728,
+        728,
+        728,
+        727
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "19031c"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.532527,
+        "posY": 1.11114645,
+        "posZ": 5.01649427,
+        "rotX": -1.76633921E-06,
+        "rotY": 270.048981,
+        "rotZ": 3.29943418E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132704,
+        "g": 0.7132704,
+        "b": 0.7132704
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        726,
+        726,
+        726,
+        726,
+        725,
+        724,
+        723,
+        723,
+        723,
+        723,
+        722,
+        722,
+        721,
+        720
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "099c0e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 15.0240269,
+        "posY": 1.11114657,
+        "posZ": 5.09935474,
+        "rotX": -3.04813881E-07,
+        "rotY": 270.025635,
+        "rotZ": -1.53603446E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713266432,
+        "g": 0.713266432,
+        "b": 0.713266432
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        719,
+        718,
+        717,
+        717,
+        717,
+        717,
+        716,
+        716,
+        715,
+        714,
+        713,
+        713,
+        713,
+        712
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "3e811f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.577979,
+        "posY": 1.10032034,
+        "posZ": 8.178258,
+        "rotX": 7.980108E-08,
+        "rotY": 270.056946,
+        "rotZ": -2.58960131E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132704,
+        "g": 0.7132704,
+        "b": 0.7132704
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        711,
+        711,
+        710,
+        710,
+        709,
+        708,
+        707,
+        708,
+        707,
+        708,
+        707,
+        706
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "33bae0"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.69514465,
+        "posY": 1.1003201,
+        "posZ": 8.089632,
+        "rotX": -1.74948838E-08,
+        "rotY": 270.0287,
+        "rotZ": 2.94767779E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713266432,
+        "g": 0.713266432,
+        "b": 0.713266432
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        705,
+        704,
+        704,
+        703,
+        701,
+        701,
+        701,
+        701,
+        702,
+        702,
+        702,
+        700
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "892d29"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 3.37706685,
+        "posY": 1.08353984,
+        "posZ": 15.9107561,
+        "rotX": 5.47058328E-08,
+        "rotY": 359.9876,
+        "rotZ": 9.119312E-08,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132742,
+        "g": 0.7132742,
+        "b": 0.7132742
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 748,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "ab5de8"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 9.109393,
+        "posY": 1.08354008,
+        "posZ": 15.7657452,
+        "rotX": -1.11960183E-07,
+        "rotY": 0.0307675377,
+        "rotZ": -8.593373E-07,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132742,
+        "g": 0.7132742,
+        "b": 0.7132742
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 747,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "503082"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -2.88654876,
+        "posY": 1.08354008,
+        "posZ": 15.7427807,
+        "rotX": 2.94130928E-07,
+        "rotY": 0.0525351427,
+        "rotZ": 7.64832748E-08,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132742,
+        "g": 0.7132742,
+        "b": 0.7132742
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 746,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "669901"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 15.2686253,
+        "posY": 1.08353984,
+        "posZ": 15.7765131,
+        "rotX": 5.07133144E-08,
+        "rotY": -0.00242409739,
+        "rotZ": 5.496629E-08,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7132742,
+        "g": 0.7132742,
+        "b": 0.7132742
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 745,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://i.imgur.com/cLGxRlP.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "6519a4"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.43943644,
+        "posY": 1.11114657,
+        "posZ": -9.023095,
+        "rotX": -3.53436377E-07,
+        "rotY": 270.037537,
+        "rotZ": -3.239111E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713325,
+        "g": 0.713325,
+        "b": 0.713325
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        313,
+        313,
+        313,
+        314,
+        316,
+        316,
+        316,
+        316,
+        316,
+        317,
+        317,
+        317,
+        317,
+        317
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "http://i.imgur.com/Lfkb7uL.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "18ea94"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -18.8063145,
+        "posY": 1.089494,
+        "posZ": 12.6101093,
+        "rotX": -2.48757487E-06,
+        "rotY": 270.016327,
+        "rotZ": 9.254549E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        130,
+        128,
+        106,
+        105,
+        108,
+        104,
+        133,
+        129,
+        103,
+        131
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "a76a58"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -18.9809666,
+        "posY": 1.089494,
+        "posZ": 8.512614,
+        "rotX": 4.5380466E-06,
+        "rotY": 270.0162,
+        "rotZ": -4.058493E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        137,
+        101,
+        138,
+        135,
+        132,
+        102,
+        139,
+        100,
+        134,
+        136
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/qdS63ui.jpg",
+          "BackURL": "http://i.imgur.com/WKIvU67.jpg"
+        }
+      },
+      "GUID": "080f56"
+    }
+  ]
+}
